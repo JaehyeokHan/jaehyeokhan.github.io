@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jaehyeok Han
-title: Ph.D student in Information security
+title: Ph.D student at Korea University
 email: one01h@korea.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -52,7 +52,12 @@ linkedin_username: jaehyeok-han-67013a111
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  He received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, he is with the School of Cybersecurity from Korea University as a Ph.D. student, and have worked with investigative agency as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP). His current research interests include digital forensics, information security, and cryptography system.
+  I received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, I have studied as a Ph.D. student in with the School of Cybersecurity at Korea University, and have worked as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP).
+  My research interests include digital forensics, information security, and cryptography.
+
+  - [Graduate School of information Security] (https://scs.korea.ac.kr/)
+  - Institute of Cyber Security & Privacy (ICSP)(https://icsp.korea.ac.kr/)
+  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/)
 
 content:
   - title: Projects # Title for the section
