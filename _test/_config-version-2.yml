@@ -6,10 +6,10 @@ repository: sproogen/modern-resume-theme
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: test@email.com
-email_title: Email
+name: Jaehyeok Han
+title: Ph.D Candidate in Computer Science
+email: one01h@gmail.com
+email_title: one01h@korea.ac.kr
 phone: 07845248563
 phone_title: Phone
 website: sproogen.github.io/modern-resume-theme
