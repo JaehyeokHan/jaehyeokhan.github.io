@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jaehyeok Han
-title: Ph.D student at Korea University
+title: Ph.D student
 email: one01h@korea.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -86,7 +86,7 @@ content:
 #         Dissertation:
 
       - layout: left
-        title: A Master of Engineering (M.E.)
+        title: Master of Engineering (M.E.)
         sub_title: Mar. 2014 - Feb. 2016
         description: | # this will include new lines to allow paragraphs
           Graduate School of information Security, South Korea. Advised by [Sangjine Lee](https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30)
