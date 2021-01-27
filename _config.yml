@@ -8,9 +8,16 @@ version: 2
 # Personal info
 name: Jaehyeok Han
 title: Ph.D student in Information security (Digital forensics)
-title: Korea Unversity
+
+[Digital Forensic Research Center (DFRC)](http://foobar.com)
+
+[Graduate School of information Security] (https://scs.korea.ac.kr/)
+Institute of Cyber Security & Privacy (ICSP)
+
+
+Korea Unversity
 email: one01h@korea.ac.kr
-email_title: Email (Email title override)
+# email_title: Email (Email title override)
 # phone: Your phone number (optional)
 # phone_title: Phone (Phone title override)
 # website: Your website (eg. https://google.com)(optional)
@@ -24,7 +31,7 @@ twitter_username: one01h
 github_username:  JaehyeokHan
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
-facebook_username: one01h
+facebook_username: jaehye0k
 # flickr_username: jekyll
 # instagram_username: jekyll
 linkedin_username: jaehyeok-han-67013a111
@@ -32,13 +39,13 @@ linkedin_username: jaehyeok-han-67013a111
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
-orcid_username: 0000-0001-5724-0775
+# orcid_username: 0000-0001-5724-0775
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -54,7 +61,6 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   He received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, he is with the School of Cybersecurity from Korea University as a Ph.D. student, and have worked with investigative agency as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP). His current research interests include digital forensics, information security, and cryptography system.
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this
 
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Interests: Digital forensics, Cryptography, Data hiding, Filesystem, Data mining
