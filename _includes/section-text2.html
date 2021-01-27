@@ -1,7 +1,8 @@
 {% for item in include.content %}
   <div class="row clearfix layout layout-{{item.layout | default: 'left'}}">
     <div class="col-md-12">
-      <h4>{{ item.title }}</h4><p>{{ item.description | strip | markdownify }}</p>
+      <h3><b>{{ item.title }}</b></h3><p>{{ item.description | strip | markdownify }}</p>
+	  <h4><b>{{ item.title }}</b></h4><p>{{ item.description | strip | markdownify }}</p>
     </div>
   </div>
 {% endfor %}
