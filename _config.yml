@@ -67,7 +67,7 @@ content:
       - layout: left
         title: CARPE Forensics
         link: http://carpeforensics.org/
-        link_text: Comprehensive Analysis and Research Platform for digital Evidence
+        link_text: http://carpeforensics.org/
         additional_links:
           - title:  Github page for project
             icon: fab fa-github
@@ -76,11 +76,42 @@ content:
           Comprehensive Analysis and Research Platform for digital Evidence
         description: | # this will include new lines to allow paragraphs
           CARPE is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.
-          
+  
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: Korea University, Seoul, South Korea
+        sub_title: Ph.D student
+        caption: Mar. 2016 - Present
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+    content:
+      - layout: left
+        title: Korea University, Seoul, South Korea
+        sub_title: M.E, Department of Information Security
+        caption: Mar. 2011 - Feb. 2016
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+    content:
+      - layout: left
+        title: University of Seoul (UOS), Seoul, South Korea
+        sub_title: B.S, Mathematics
+        caption: Mar. 2007 - Feb. 2011
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+    
+  
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Company name
         sub_title: Job title
         caption: Date Range (eg. November 2016 - present)
@@ -89,17 +120,21 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
+          
+  - title: Certification
     layout: list
     content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+      - layout: left
+        title: Company name
+        sub_title: Job title
+        caption: Date Range (eg. November 2016 - present)
+        link: Link to company (optional)
         quote: >
-          Short institution or course description (optional)
+          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Description of role
+          
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
