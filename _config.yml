@@ -45,7 +45,7 @@ linkedin_username: jaehyeok-han-67013a111
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
+gtag: "G-EBNBGEBGNZ"
 # google_analytics: "UA-00000000-0"
 
 # About Section
@@ -54,11 +54,10 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, I have studied as a Ph.D. student in with the School of Cybersecurity at Korea University, and have worked as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP).
   
-  My research interests include digital forensics, information security, and cryptography.
+  My research interests include *digital forensics*, *information security*, and *cryptography*.
 
-  - [Graduate School of information Security](https://scs.korea.ac.kr/)
-  - [Institute of Cyber Security & Privacy (ICSP)](https://icsp.korea.ac.kr/)
-  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/)
+  - [Graduate School of information Security, Korea University](https://scs.korea.ac.kr/)
+  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/) at Institute of Cyber Security & Privacy (ICSP)
 
 content:
   - title: Projects # Title for the section
@@ -76,6 +75,13 @@ content:
           Comprehensive Analysis and Research Platform for digital Evidence
         description: | # this will include new lines to allow paragraphs
           CARPE is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.
+  - title: Education-test
+    layout: list-text
+    content:
+      - layout: left
+        title: Ph.D student
+        description: | # this will include new lines to allow paragraphs
+          Korea University, Seoul, South Korea
   
   - title: Education
     layout: list
@@ -107,7 +113,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           University of Seoul (UOS), Seoul, South Korea
     
-  
   - title: Experience
     layout: list
     content:
@@ -143,7 +148,7 @@ content:
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false #true
 # references_title: References on request (Override references text)
 
 # Build settings
