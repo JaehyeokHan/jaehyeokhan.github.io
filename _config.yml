@@ -82,21 +82,21 @@ content:
         title: Ph.D student
         sub_title: Mar. 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          School of Cybersecurity, Korea University, Seoul, South Korea
+          <p>School of Cybersecurity, Korea University, Seoul, South Korea</p>
 #         Dissertation:
 
       - layout: left
         title: A Master of Engineering (M.E.)
         sub_title: Mar. 2014 - Feb. 2016
         description: | # this will include new lines to allow paragraphs
-          Graduate School of information Security, South Korea. Advised by Sangjine Lee
-          Thesis: *Analysis of the HIKVISION DVR filesystem*
+          <p>Graduate School of information Security, South Korea. Advised by Sangjine Lee</p>
+          <p>Thesis: *Analysis of the HIKVISION DVR filesystem*</p>
 
       - layout: left
         title: Bachelor of Science (B.S) - Mathematics
         sub_title: Mar. 2007 - Feb. 2011
         description: | # this will include new lines to allow paragraphs
-          University of Seoul (UOS), Seoul, South Korea. Advised by Jaechul Sung
+          <p>University of Seoul (UOS), Seoul, South Korea. Advised by Jaechul Sung</p>
     
   - title: Experience
     layout: list
@@ -127,9 +127,6 @@ content:
 
       - layout: left
         title: Media
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
         quote: >
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
@@ -139,21 +136,23 @@ content:
     layout: list
     content:
       - layout: left
-#        title: Journal
-#        sub_title: Job title
-#        caption: Date Range (eg. November 2016 - present)
-#        link: Link to company (optional)
-#        quote: >
-#          Short description of the company (optional)
+        title: Journal
+#       sub_title: Job title
+#       caption: Date Range (eg. November 2016 - present)
+#       link: Link to company (optional)
+#       quote: >
+#         Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          [1] Mookyu Park, **Jaehyeok Han**, Haengrok Oh, Kyungho Lee, “Threat Assessment for Android Environment with Connectivity to IoT Devices from the Perspective of Situational Awareness”, Wireless Communications and Mobile Computing, Volume, 2019.04.11
+          <p>[1] Mookyu Park, **Jaehyeok Han**, Haengrok Oh, Kyungho Lee, “Threat Assessment for Android Environment with Connectivity to IoT Devices from the Perspective of Situational Awareness”, Wireless Communications and Mobile Computing, Volume, 2019.04.11</p>
           
       - layout: left
         title: Conforence
+#       quote: >
+#         Short description of the company (optional)        
         description: | # this will include new lines to allow paragraphs
-          [12] **Jaehyeok Han**, Hyunji Chung, and Sangjin Lee, "I can login without your password: Data acquisition from web based server using user credential attack" DFRWS APAC 2021, 2021.01.
-          [11] **Jaehyeok Han**, and Sangjin Lee, "A Study on the Processing of Timestamps in Creating Multimedia Files on Mobile devices" The 12th International Conference Computer Science and its Applications (CSA2020), 2020.12.
-          [10] Sunghee Lim, **Jaehyeok Han**, and Sangjin Lee, "Replay attack to DRM in music streaming service on Android" The 12th International Conference on Internet (ICONI) 2020, 2020.12.
+          <p>[12] **Jaehyeok Han**, Hyunji Chung, and Sangjin Lee, "I can login without your password: Data acquisition from web based server using user credential attack" DFRWS APAC 2021, 2021.01.</p>
+          <p>[11] **Jaehyeok Han**, and Sangjin Lee, "A Study on the Processing of Timestamps in Creating Multimedia Files on Mobile devices" The 12th International Conference Computer Science and its Applications (CSA2020), 2020.12.</p>
+          <p>10] Sunghee Lim, **Jaehyeok Han**, and Sangjin Lee, "Replay attack to DRM in music streaming service on Android" The 12th International Conference on Internet (ICONI) 2020, 2020.12.</p>
           [9] **Jaehyeok Han**, Jieon Kim, and Sangjin Lee, "Information Sharing for Effective Digital Forensic Investigations”, Sixteenth Annual IFIP WG 11.9 International Conference on Digital Forensics, 2020.01.
           [8] Mookyu Park, Junwoo Seo, **Jaehyeok Han**, Haengrok Oh, and Kyungho Lee, "Situational Awareness Framework for Threat Intelligence Measurement of Android Malware", The 3rd International Symposium on Mobile Internet Security(MobiSec 2018), 2018.08.
           [7] Mookyu Park, Junwoo Seo, **Jaehyeok Han**, Haengrok Oh, and Kyungho Lee,"Situational Awareness for Hybrid Warfare: Risk Measurement Between Cyber Warfare and Nuclear Warfare", 17th European Conference on Cyber Warfare and Security(ECCWS 2018), 2018.06.
