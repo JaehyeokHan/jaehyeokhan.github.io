@@ -7,8 +7,7 @@ version: 2
 
 # Personal info
 name: Jaehyeok Han
-title: Ph.D student in Information security (Digital forensics)
-    Korea Unversity
+title: Ph.D student in Information security
 email: one01h@korea.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -60,10 +59,10 @@ about_content: | # this will include new lines to allow paragraphs
    
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Interests: Digital forensics, Cryptography, Data hiding, Filesystem, Data mining
-    # - Tables
+#   - Tables
     - <a href="https://scholar.google.com/citations?hl=en&user=uWQOVcoAAAAJ">Google Scholar</a>
     - <mark>News</mark>
-    # - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
