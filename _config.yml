@@ -75,41 +75,24 @@ content:
           Comprehensive Analysis and Research Platform for digital Evidence
         description: | # this will include new lines to allow paragraphs
           CARPE is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.
-  - title: Education-test
-    layout: text2
-    content:
-      - layout: left
-        title: Ph.D student test test test test test test
-        description: | # this will include new lines to allow paragraphs
-          Korea University, Seoul, South Korea. test test test test test test test test test test test test test test test test test test test test test test test test
-  
   - title: Education
-    layout: list
+    layout: text2
     content:
       - layout: left
         title: Ph.D student
         sub_title: Mar. 2016 - Present
-        caption: font size
-#       quote: >
-#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Korea University, Seoul, South Korea
 
       - layout: left
         title: M.E, Department of Information Security
         sub_title: Mar. 2011 - Feb. 2016
-#       caption: 
-#       quote: >
-#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           Korea University, Seoul, South Korea
 
       - layout: left
         title: B.S, Mathematics
         sub_title: Mar. 2007 - Feb. 2011
-#       caption: 
-#       quote: >
-#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
           University of Seoul (UOS), Seoul, South Korea
     
