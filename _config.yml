@@ -107,30 +107,30 @@ content:
 #       caption: Date Range (eg. November 2016 - present)
 #       link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          TBC
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Writing
 
       - layout: left
         title: Case
         quote: >
-          Short description of the company (optional)
+          TBC
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          Writing
 
       - layout: left
         title: Lecture
         quote: >
-          Short description of the company (optional)
+          TBC
         description: | # this will include new lines to allow paragraphs
-          Description of role     
+          Writing
 
       - layout: left
         title: Media
         quote: >
-          Short description of the company (optional)
+          TBC
         description: | # this will include new lines to allow paragraphs
-          Description of role             
+          Writing
           
   - title: Publication
     layout: list
