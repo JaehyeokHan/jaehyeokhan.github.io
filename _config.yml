@@ -81,31 +81,31 @@ content:
     layout: list
     content:
       - layout: left
-        title: Korea University, Seoul, South Korea
-        sub_title: Ph.D student
-        caption: Mar. 2016 - Present
-        quote: >
-          Short institution or course description (optional)
+        title: Ph.D student
+        sub_title: Mar. 2016 - Present
+#       caption: 
+#       quote: >
+#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-    content:
+          Korea University, Seoul, South Korea
+
       - layout: left
-        title: Korea University, Seoul, South Korea
-        sub_title: M.E, Department of Information Security
-        caption: Mar. 2011 - Feb. 2016
-        quote: >
-          Short institution or course description (optional)
+        title: M.E, Department of Information Security
+        sub_title: Mar. 2011 - Feb. 2016
+#       caption: 
+#       quote: >
+#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
-    content:
+          Korea University, Seoul, South Korea
+
       - layout: left
-        title: University of Seoul (UOS), Seoul, South Korea
-        sub_title: B.S, Mathematics
-        caption: Mar. 2007 - Feb. 2011
-        quote: >
-          Short institution or course description (optional)
+        title: B.S, Mathematics
+        sub_title: Mar. 2007 - Feb. 2011
+#       caption: 
+#       quote: >
+#         Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          University of Seoul (UOS), Seoul, South Korea
     
   
   - title: Experience
