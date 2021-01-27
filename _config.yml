@@ -79,9 +79,9 @@ content:
     layout: text2
     content:
       - layout: left
-        title: Ph.D student
+        title: Ph.D student test test test test test test
         description: | # this will include new lines to allow paragraphs
-          Korea University, Seoul, South Korea
+          Korea University, Seoul, South Korea. test test test test test test test test test test test test test test test test test test test test test test test test
   
   - title: Education
     layout: list
