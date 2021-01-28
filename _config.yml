@@ -89,14 +89,14 @@ content:
         title: Master of Engineering (M.E.)
         sub_title: Mar. 2014 - Feb. 2016
         description: | # this will include new lines to allow paragraphs
-          Graduate School of information Security, South Korea. Advised by [Sangjine Lee](https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30)
-          <p>Thesis: *Analysis of the HIKVISION DVR filesystem*</p>
+          <p>Graduate School of information Security, South Korea. Advised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "blank">Sangjin Lee</A></p>
+          <p>Thesis: <i>Analysis of the HIKVISION DVR filesystem</i></p>
 
       - layout: left
         title: Bachelor of Science (B.S) - Mathematics
         sub_title: Mar. 2007 - Feb. 2011
         description: | # this will include new lines to allow paragraphs
-          University of Seoul (UOS), Seoul, South Korea. Advised by [Jaechul Sung](https://www.uos.ac.kr/en/professor/view.do?proseq=14&code=20031&pageIndex=1&epTicket=LOG)
+          <p>University of Seoul (UOS), Seoul, South Korea. Advised by <A href = "https://www.uos.ac.kr/en/professor/view.do?proseq=14&code=20031&pageIndex=1&epTicket=LOG" target = "top">Jaechul Sung</A></p>
     
   - title: Experience
     layout: list
