@@ -147,8 +147,8 @@ content:
 #         Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
          <p>[3] 5W1H-based Expression for the Effective Sharing of Information in Digital Forensic Investigations<br>&nbsp;&nbsp;Han, J., Kim, J., & Lee, S. (2020). arXiv preprint arXiv:2010.15711.</p>
-         <p style-"text-indent: 3em;">2. Forensic analysis of the Windows telemetry for diagnostics<br>&nbsp;&nbsp;Han, J., Park, J., Chung, H., & Lee, S. (2020). arXiv preprint arXiv:2002.12506.</p>
-         <p style-"text-indent: 5em;">1. <b>Threat Assessment for Android Environment with Connectivity to IoT Devices from the Perspective of Situational Awareness</b><br>&nbsp;&nbsp;Park, M., Han, J., Oh, H., & Lee, K. (2019). Wireless Communications and Mobile Computing, 2019.</p>
+         <p style="text-indent: 3em;">2. <b>Forensic analysis of the Windows telemetry for diagnostics</b><br>&nbsp;&nbsp;Han, J., Park, J., Chung, H., & Lee, S. (2020). arXiv preprint arXiv:2002.12506.</p>
+         <p style="text-indent: 5em;">1. <b>Threat Assessment for Android Environment with Connectivity to IoT Devices from the Perspective of Situational Awareness</b><br>&nbsp;&nbsp;Park, M., Han, J., Oh, H., & Lee, K. (2019). Wireless Communications and Mobile Computing, 2019.</p>
           
       - layout: left
         title: Conforence
