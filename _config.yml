@@ -86,7 +86,7 @@ content:
 #         Dissertation:
 
       - layout: left
-        title: Master of Engineering (M.E.)
+        title: Master of Engineering (M.E.) - Information security (Digital forensics)
         sub_title: Mar. 2014 - Feb. 2016
         description: | # this will include new lines to allow paragraphs
           <p>Graduate School of information Security, South Korea. Advised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A></p>
@@ -123,7 +123,8 @@ content:
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          Writing
+          - Course # IMS4001 - Practical affarirs in digital forensic (Korea university - 2018W, 2019W, 2020W)
+          - Course # ITCS403 - Mobile forensics (Korea univserity - 2017F, 2018F, 2019F, 2020F)
 
       - layout: left
         title: Media
