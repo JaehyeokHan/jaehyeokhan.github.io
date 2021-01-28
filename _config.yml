@@ -123,8 +123,10 @@ content:
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          - Course # IMS4001 - Practical affarirs in digital forensic (Korea university - 2018W, 2019W, 2020W)
-          - Course # ITCS403 - Mobile forensics (Korea univserity - 2017F, 2018F, 2019F, 2020F)
+          <p>(2020F, 2021S) Ewha Univ. &#35;38497 - Digital forensics</p>
+          <p>(2020S, 2021S) Dongguk Univ. &#35;PAS4022 - Mobile forensics</p>
+          <p>(2018W, 2019W, 2020W) Korea Univ. &#35;IMS4001 - Practical affarirs in digital forensic</p>
+          <p>(2017F, 2018F, 2019F, 2020F) Korea Univ. &#35;ITCS403 - Mobile forensics</p>
 
       - layout: left
         title: Media
