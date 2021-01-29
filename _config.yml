@@ -56,9 +56,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   My research interests include *digital forensics*, *information security*, and *cryptography*.
 
-  - [School of Cybersecurity](https://gss.korea.edu/), [Korea University](http://www.korea.edu/)
-  - [Institute of Cyber Security & Privacy (ICSP)](https://gss.korea.edu/sis_en/organisations/center.do)
-  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/) [*[RETR](https://sites.google.com/a/forensic.or.kr/main/)*] at ICSP
+  - [<A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A>] at [<A href = "http://www.korea.edu/" target = "top">Korea University</A>]
+  - [<A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A>] at Korea University
+  - [<A href = "http://forensic.korea.ac.kr/" target = "top">Digital Forensic Research Center (DFRC)</A>] [*[<A href = "https://sites.google.com/a/forensic.or.kr/main/" target = "top">RETR</A>]*] at ICSP
+  
   
 content:
   - title: Project # Title for the section
