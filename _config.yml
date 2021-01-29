@@ -172,6 +172,17 @@ content:
           <p style="text-indent: -1em;">1. <b>Analysis of the HIKVISION DVR file system</b> [<A href = "https://eudl.eu/pdf/10.1007/978-3-319-25512-5_13" target = "top">pdf</A>]<br>Han, J., Jeong, D., & Lee, S. (2015, October). In International Conference on Digital Forensics and Cyber Crime (pp. 189-199). Springer, Cham.</p>
           
       - layout: left
+        title: Book
+        description: | # this will include new lines to allow paragraphs
+          <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
+          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">buy</A>] [<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
+          <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han.
+          <br>ISBN : 9791186697382(1186697385)
+          <br>Language: Korean
+          <br>Publisher: BJ Republic (20 July 2017)
+#         Review
+          
+      - layout: left
         title: Domestics (in Korea)
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">j14. <b>Improvements of Searching and Seizing Steganographic Evidence</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002671199" target = "top">ePrint</A>]<br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
@@ -191,7 +202,6 @@ content:
           <p style="text-indent: -1em;">j6. <b>A Study of Method to Restore Deduplicated Files in Windows Server 2012</b> [<A href = "http://koreascience.or.kr/article/JAKO201706749670643.page" target = "top">ePrint</A>]<br>Son, G., Han, J., & Lee, S. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(6), 1373-1383.</p>
           <p style="text-indent: -1em;">j5. <b>A method of recovery for damaged ZIP files</b> [<A href = "http://koreascience.or.kr/article/JAKO201732663238886.page" target = "top">ePrint</A>]<br>Jung, B., Han, J., & Lee, S. J. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1107-1115.</p>
           <p style="text-indent: -1em;">j4. <b>Fake GPS Detection for the Online Game Service on Server-Side</b> [<A href = "http://koreascience.or.kr/article/JAKO201732663238858.page" target = "top">ePrint</A>]<br>Han, J., & Lee, S. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1069-1076.</p>
-          <p style="text-indent: -1em;">b1. <b>디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용</b><br>김민식, 이상진, 한재혁, (ISBN: 9791186697382), BJ퍼블릭, 2017.07.</p>
           <p style="text-indent: -1em;">c3. <b>윈도우즈 텔레메트리 로그파일 분석 및 레지스트리 정보와 비교</b><br>이승주, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2017s), 2017.07.</p>
           <p style="text-indent: -1em;">c2. <b>로그인 정보 분석을 통합 웹 브라우저 포렌식 개선 방안</b><br>김준기, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S’16), 2017.06.22.</p>
           <p style="text-indent: -1em;">j3. <b>A study on API wrapping in Themida and unpacking technique</b> [<A href = "http://koreascience.or.kr/article/JAKO201711656578275.page" target = "top">ePrint</A>]<br>Lee, J. H., Han, J., Lee, M. W., Choi, J. M., Baek, H., & Lee, S. J. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(1), 67-77.</p>
