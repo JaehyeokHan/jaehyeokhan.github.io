@@ -57,7 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
   My research interests include *digital forensics*, *information security*, and *cryptography*.
 
   - [School of Cybersecurity](https://gss.korea.edu/), [Korea University](http://www.korea.edu/)
-  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/) [*[RETR](https://sites.google.com/a/forensic.or.kr/main/)*] at Institute of Cyber Security & Privacy (ICSP)
+  - [Institute of Cyber Security & Privacy (ICSP)](https://gss.korea.edu/sis_en/organisations/center.do)
+  - [Digital Forensic Research Center (DFRC)](http://forensic.korea.ac.kr/) [*[RETR](https://sites.google.com/a/forensic.or.kr/main/)*] at ICSP
   
 content:
   - title: Project # Title for the section
@@ -164,8 +165,8 @@ content:
           <p>[5] Mookyu Park, <b>Jaehyeok Han</b>, Moosung Park, and Kyungho Lee, "What is Next September. 11? Risk Measurement of Hybrid Warfare about Boeing 787 Dreamliner using FAIR Model", The 9th International Conference on Internet(ICONI 2017), 2017.12.</p>
           <p>[4] <b>Jaehyeok Han</b>, Mookyu Park, Moosung Park, Kyungho Lee, and Sangjin Lee, "Analysis model for Digital Forensic Intelligence in case of the Confidential Leaks", The 9th International Conference on Internet(ICONI 2017), 2017.12.</p>
           <p>[3] Park, M., Han, J., Seo, J., Oh, H., & Lee, K. (2017, October). FAIR-Based Cyber Influence Damage Assessment for Exploit in Mobile Device. In International Symposium on Mobile Internet Security (pp. 51-64). Springer, Singapore.</p>
-          <p>[2] Han, J., & Lee, S. (2016). A practical approach to analyze smartphone backup data as a digital evidence. DFRWS USA, 2016.</p>
-          <p>[1] Han, J., Jeong, D., & Lee, S. (2015, October). Analysis of the HIKVISION DVR file system. In International Conference on Digital Forensics and Cyber Crime (pp. 189-199). Springer, Cham.</p>
+          <p style="text-indent: -1em;">2. <b>A practical approach to analyze smartphone backup data as a digital evidence</b><br>Han, J., & Lee, S. (2016). DFRWS USA, 2016.</p>
+          <p style="text-indent: -1em;">1. <b>Analysis of the HIKVISION DVR file system [<A href = "https://eudl.eu/pdf/10.1007/978-3-319-25512-5_13" target = "top">pdf</A>]</b><br>Han, J., Jeong, D., & Lee, S. (2015, October). In International Conference on Digital Forensics and Cyber Crime (pp. 189-199). Springer, Cham.</p>
           
       - layout: left
         title: Domestics (in Korea)
