@@ -130,7 +130,7 @@ content:
           <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (ITCS403) 2017F, 2018F, 2019F, 2020F, Dongguk Univ. (PAS4022) 2020S, 2021S</p>
 
       - layout: left
-        title: Media
+        title: Support
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
@@ -174,30 +174,30 @@ content:
       - layout: left
         title: Domestics (in Korea)
         description: | # this will include new lines to allow paragraphs
-          <p>[j14] Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Improvements of Searching and Seizing Steganographic Evidence. Korean Lawyers Association Journal, 69(6), 184-225.</p>
-          <p>[j13] Kim, D., Han, J., & Lee, S. (2020). A study on forensic analysis for Windows search utility Everything. Journal of Digital Forensics, 14(3), 279-289.</p>
-          <p>[c9] 김동현, 한재혁, 이상진, "검색 유틸리티 Everything에 대한 포렌식 분석 및 활용 기법 연구", 한국디지털포렌식학회 하계학술대회(WDFS-2020s), 2020.07.</p>
-          <p>[j12] Han, J., Yoon, Y., Hur, G., Lee, J., Choi, J., Hong, S., & Lee, S. (2019). Secure File Transfer Method and Forensic Readiness by converting file format in Network Segmentation Environment. Journal of the Korea Institute of Information Security & Cryptology, 29(4), 859-866.</p>
-          <p>[c8] 엄민지, 한재혁, 이상진, "윈도우에서 ZIP 파일 생성 프로그램 추정 기법", 한국정보보호학회 하계학술대회(CISC-S 2020), 2019.07.</p>
-          <p>[c7] 한재혁, 권양섭, "디지털 증거 인증 및 디지털 포렌식 도구 검증제도에 관한 연구", 한국법과학회 2019 추계학술대회, 2019.10.</p>
-          <p>[j11] Yun, W., Han, J., & Lee, S. (2019). 5W1H based Information Expression Standard for efficient digital forensic investigation. Journal of Digital Forensics, 13(2), 127-136.</p>          
-          <p>[c6] 이선호, 한재혁, 이상진, "윈도우 실행파일의 특징 추출을 통한 프로파일링 기법 연구", 한국정보보호학회 하계학술대회(CISC-S 2019), 2019.06.</p>
+          <p style="text-indent: -1em;">j14. <b>Improvements of Searching and Seizing Steganographic Evidence</b><br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
+          <p style="text-indent: -1em;">j13. <b>A study on forensic analysis for Windows search utility Everything</b><br>Kim, D., Han, J., & Lee, S. (2020). Journal of Digital Forensics, 14(3), 279-289.</p>
+          <p style="text-indent: -1em;">c9. <b>검색 유틸리티 Everything에 대한 포렌식 분석 및 활용 기법 연구</b><br>김동현, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2020s), 2020.07.</p>
+          <p style="text-indent: -1em;">j12. <b>Secure File Transfer Method and Forensic Readiness by converting file format in Network Segmentation Environment</b> [<A href = "http://koreascience.or.kr/article/JAKO201926072346469.page" target = "top">ePrint</A>]<br>Han, J., Yoon, Y., Hur, G., Lee, J., Choi, J., Hong, S., & Lee, S. (2019). Journal of the Korea Institute of Information Security & Cryptology, 29(4), 859-866.</p>
+          <p style="text-indent: -1em;">c8. <b>윈도우에서 ZIP 파일 생성 프로그램 추정 기법</b><br>엄민지, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S 2020), 2019.07.</p>
+          <p style="text-indent: -1em;">c7. <b>디지털 증거 인증 및 디지털 포렌식 도구 검증제도에 관한 연구</b><br>한재혁, 권양섭, 한국법과학회 2019 추계학술대회, 2019.10.</p>
+          <p style="text-indent: -1em;">j11. <b>5W1H based Information Expression Standard for efficient digital forensic investigation</b><br>Yun, W., Han, J., & Lee, S. (2019). Journal of Digital Forensics, 13(2), 127-136.</p>          
+          <p style="text-indent: -1em;">c6. <b>윈도우 실행파일의 특징 추출을 통한 프로파일링 기법 연구</b><br>이선호, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S 2019), 2019.06.</p>
           <p style="text-indent: -1em;">j10. <b>Study on History Tracking Technique of the Document File through RSID Analysis in MS Word</b> [<A href = "http://koreascience.or.kr/article/JAKO201807753430904.page" target = "top">ePrint</A>]<br>Joun, J., Han, J., Jung, D., & Lee, S. (2018). Journal of the Korea Institute of Information Security & Cryptology, 28(6), 1439-1448.</p>
-          <p style="text-indent: -1em;">j9. <b>A Study on Detecting Data Hiding Area of Removable Storage Device Based on Flash Memory</b> [<A href = "http://koreascience.or.kr/article/JAKO201834653832505.page" target = "top">ePrint</A>]<br>Kim, S., Han, J., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 21-29.</p>
-          <p>[j8] Jung, B., Han, J., Choi, H., & Lee, S. (2018). A Study on the Possibility of Recover ing Deleted Data through Analysis of SQLite Journal in Messenger Application. Journal of Digital Forensics, 12(2), 11-20.</p>
-          <p>[j7] Kim, J., Han, J., Choi, J. H., & Lee, S. (2018). The Method of Recovery for Deleted Record of Realm Database. Journal of the Korea Institute of Information Security & Cryptology, 28(3), 625-633.</p>
-          <p>[c5] 김소희, 한재혁, 이상진, "USB 보안영역 탐지 방법에 대한 연구", 한국디지털포렌식학회 하계학술대회(WDFS-2018s), 2018.06.</p>
-          <p>[c4] 정병찬, 한재혁, 최호용, 이상진, "메신저앱에서 메시지 삭제 방법에 따른 데이터 잔존 여부 및 복구가능성 연구", 한국디지털포렌식학회 하계학술대회(WDFS-2018s), 2018.06.</p>
-          <p>[j6] Son, G., Han, J., & Lee, S. (2017). A Study of Method to Restore Deduplicated Files in Windows Server 2012. Journal of the Korea Institute of Information Security & Cryptology, 27(6), 1373-1383.</p>
-          <p>[j5] Jung, B., Han, J., & Lee, S. J. (2017). A method of recovery for damaged ZIP files. Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1107-1115.</p>
-          <p>[j4] Han, J., & Lee, S. (2017). Fake GPS Detection for the Online Game Service on Server-Side. Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1069-1076.</p>
-          <p>[b1] 김민식, 이상진, <b>한재혁</b>, "디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 (ISBN: 9791186697382)", 비제이퍼블릭(BJ퍼블릭), 2017.07.</p>
-          <p>[c3] 이승주, 한재혁, 이상진, "윈도우즈 텔레메트리 로그파일 분석 및 레지스트리 정보와 비교", 한국디지털포렌식학회 하계학술대회(WDFS-2017s), 2017.07.</p>
-          <p>[c2] 김준기, 한재혁, 이상진,"로그인 정보 분석을 통합 웹 브라우저 포렌식 개선 방안", 한국정보보호학회 하계학술대회(CISC-S’16), 2017.06.22.</p>
-          <p>[j3] Lee, J. H., Han, J., Lee, M. W., Choi, J. M., Baek, H., & Lee, S. J. (2017). A study on API wrapping in Themida and unpacking technique. Journal of the Korea Institute of Information Security & Cryptology, 27(1), 67-77.</p>
-          <p>[j2] Jang, J., Bang, S. G., Han, J., & Lee, S. J. (2017). A Recovery Technique of PDF File in the Unit of Page. KIPS Transactions on Computer and Communication Systems, 6(1), 25-30.</p>
-          <p>[c1] 정병준, 한재혁, 이상진, "ZIP 파일 복구 도구의 성능한계와 개선방안", 한국디지털포렌식학회 하계학술대회(WDFS-2016s), 2016.12.</p>
-          <p>[j1] Kim, E., Jeon, S., Han, J., Lee, M., & Lee, S. (2015). An effective detection method for hiding data in compound-document files. Journal of the Korea Institute of Information Security & Cryptology, 25(6), 1485-1494.</p>
+          <p style="text-indent: -1em;">j9. <b>A Study on Detecting Data Hiding Area of Removable Storage Device Based on Flash Memory</b><br>Kim, S., Han, J., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 21-29.</p>
+          <p style="text-indent: -1em;">j8. <b>A Study on the Possibility of Recover ing Deleted Data through Analysis of SQLite Journal in Messenger Application</b> [<A href = "http://koreascience.or.kr/article/JAKO201820765436681.page" target = "top">ePrint</A>]<br>Jung, B., Han, J., Choi, H., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 11-20.</p>
+          <p style="text-indent: -1em;">j7. <b>The Method of Recovery for Deleted Record of Realm Database</b> [<A href = "http://koreascience.or.kr/article/JAKO201820765436681.page" target = "top">ePrint</A>]<br>Kim, J., Han, J., Choi, J. H., & Lee, S. (2018). Journal of the Korea Institute of Information Security & Cryptology, 28(3), 625-633.</p>
+          <p style="text-indent: -1em;">c5. <b>USB 보안영역 탐지 방법에 대한 연구</b><br>김소희, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2018s), 2018.06.</p>
+          <p style="text-indent: -1em;">c4. <b>메신저앱에서 메시지 삭제 방법에 따른 데이터 잔존 여부 및 복구가능성 연구</b><br>정병찬, 한재혁, 최호용, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2018s), 2018.06.</p>
+          <p style="text-indent: -1em;">j6. <b>A Study of Method to Restore Deduplicated Files in Windows Server 2012</b><br>Son, G., Han, J., & Lee, S. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(6), 1373-1383.</p>
+          <p style="text-indent: -1em;">j5. <b>A method of recovery for damaged ZIP files</b><br>Jung, B., Han, J., & Lee, S. J. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1107-1115.</p>
+          <p style="text-indent: -1em;">j4. <b>Fake GPS Detection for the Online Game Service on Server-Side</b> [<A href = "http://koreascience.or.kr/article/JAKO201732663238858.page" target = "top">ePrint</A>]<br>Han, J., & Lee, S. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(5), 1069-1076.</p>
+          <p style="text-indent: -1em;">b1. <b>디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용</b><br>김민식, 이상진, 한재혁, (ISBN: 9791186697382), BJ퍼블릭, 2017.07.</p>
+          <p style="text-indent: -1em;">c3. <b>윈도우즈 텔레메트리 로그파일 분석 및 레지스트리 정보와 비교</b><br>이승주, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2017s), 2017.07.</p>
+          <p style="text-indent: -1em;">c2. <b>로그인 정보 분석을 통합 웹 브라우저 포렌식 개선 방안</b><br>김준기, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S’16), 2017.06.22.</p>
+          <p style="text-indent: -1em;">j3. <b>A study on API wrapping in Themida and unpacking technique</b> [<A href = "http://koreascience.or.kr/article/JAKO201711656578275.page" target = "top">ePrint</A>]<br>Lee, J. H., Han, J., Lee, M. W., Choi, J. M., Baek, H., & Lee, S. J. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(1), 67-77.</p>
+          <p style="text-indent: -1em;">j2. <b>A Recovery Technique of PDF File in the Unit of Page</b> [<A href = "http://koreascience.or.kr/article/JAKO201710758143462.page" target = "top">ePrint</A>]<br>Jang, J., Bang, S. G., Han, J., & Lee, S. J. (2017). KIPS Transactions on Computer and Communication Systems, 6(1), 25-30.</p>
+          <p style="text-indent: -1em;">c1. <b>ZIP 파일 복구 도구의 성능한계와 개선방안</b><br>정병준, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2016s), 2016.12.</p>
+          <p style="text-indent: -1em;">j1. <b>An effective detection method for hiding data in compound-document files</b> [<A href = "http://koreascience.or.kr/article/JAKO201503340570272.page" target = "top">ePrint</A>]<br>Kim, E., Jeon, S., Han, J., Lee, M., & Lee, S. (2015). Journal of the Korea Institute of Information Security & Cryptology, 25(6), 1485-1494.</p>
           
 # - title: A Little More About Me
 #   layout: text
