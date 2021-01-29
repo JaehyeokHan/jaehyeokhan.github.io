@@ -56,9 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   My research interests include *digital forensics*, *information security*, and *cryptography*.
 
-  - [<A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A>] at [<A href = "http://www.korea.edu/" target = "top">Korea University</A>]
-  - [<A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A>] at Korea University
-  - [<A href = "http://forensic.korea.ac.kr/" target = "top">Digital Forensic Research Center (DFRC)</A>] [*[<A href = "https://sites.google.com/a/forensic.or.kr/main/" target = "top">RETR</A>]*] at ICSP
+  - <A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A> at <A href = "http://www.korea.edu/" target = "top">Korea University</A>
+  - <A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A> at Korea University
+  - <A href = "http://forensic.korea.ac.kr/" target = "top">Digital Forensic Research Center (DFRC)</A> [*<A href = "https://sites.google.com/a/forensic.or.kr/main/" target = "top">RETR</A>*] at ICSP
   
   
 content:
@@ -82,7 +82,7 @@ content:
     content:
       - layout: left
         title: Ph.D student
-        sub_title: Mar. 2016 - Present
+        sub_title: Mar. 2016 - Present (Advisor. <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A>)
         description: | # this will include new lines to allow paragraphs
           School of Cybersecurity, Korea University, Seoul, South Korea
 #         Dissertation:
