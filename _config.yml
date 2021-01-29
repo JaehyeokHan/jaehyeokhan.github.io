@@ -114,13 +114,6 @@ content:
           Writing
 
       - layout: left
-        title: Case
-        quote: >
-          TBC
-        description: | # this will include new lines to allow paragraphs
-          Writing
-
-      - layout: left
         title: Lecture
         quote: >
           TBC
@@ -131,6 +124,7 @@ content:
 
       - layout: left
         title: Support
+        sub_title: Case, Media, etc.
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
