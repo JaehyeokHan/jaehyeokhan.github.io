@@ -183,6 +183,7 @@ content:
           
       - layout: left
         title: Domestics (in Korea)
+        sub_title: Journal & Conference
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">j14. <b>Improvements of Searching and Seizing Steganographic Evidence</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002671199" target = "top">ePrint</A>]<br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
           <p style="text-indent: -1em;">j13. <b>A study on forensic analysis for Windows search utility Everything</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002636122" target = "top">ePrint</A>]<br>Kim, D., Han, J., & Lee, S. (2020). Journal of Digital Forensics, 14(3), 279-289.</p>
