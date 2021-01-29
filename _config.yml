@@ -125,18 +125,21 @@ content:
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          <p>- Digital forensics (&#35;38497), Ewha Univ. 2020F, 2021S</p>
-          <p>- Mobile forensics (&#35;PAS4022), Dongguk Univ. 2020S, 2021S</p>
-          <p>- Practical affarirs in digital forensic (&#35;IMS4001), Korea Univ. 2018W, 2019W, 2020W</p>
-          <p>- Mobile forensics (&#35;ITCS403), Korea Univ. 2017F, 2018F, 2019F, 2020F</p>
+          <p style="text-indent: -1em;">- <b>Digital forensics</b><br> Ewha Univ. (&#35;38497) 2020F, 2021S</p>
+          <p style="text-indent: -1em;">- <b>Practical affarirs in digital forensic</b><br> Korea Univ. (&#35;IMS4001) 2018W, 2019W, 2020W</p>
+          <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (&#35;ITCS403) 2017F, 2018F, 2019F, 2020F<br> Dongguk Univ. (&#35;PAS4022) 2020S, 2021S</p>
 
       - layout: left
         title: Media
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          Writing
-          
+          <p style="text-indent: -1em;">- <b>전화번호·가족까지… 30분만에 인터넷서 발가벗겨졌다</b> 5 May 2016. [<A href = "https://www.chosun.com/site/data/html_dir/2016/05/05/2016050500174.html" target = "top">link</A>]</p>
+          <p style="text-indent: -1em;">- <b>해킹, 보이지 않는 위협</b> 25 May 2016. [<A href = "https://science.ytn.co.kr/program/program_view.php?s_mcd=1191&s_hcd=&key=201605260916329470&page=1" target = "top">link</A>]</p>
+          <p style="text-indent: -1em;">- <b>페이스북, 통화·문자 다 엿봤다…방통위 조사 착수</b> 27 March 2018. [<A href = "https://news.sbs.co.kr/news/endPage.do?news_id=N1004685651" target = "top">link</A>]</p>
+
+#쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서
+
   - title: Publication
     layout: list
     content: # Citation style: APA (American Psychological Association)
