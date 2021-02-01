@@ -118,9 +118,9 @@ content:
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;">- <b>Digital forensics</b><br> Ewha Univ. (38497) 2020F, 2021S</p>
-          <p style="text-indent: -1em;">- <b>Practical affarirs in digital forensic</b><br> Korea Univ. (IMS4001) 2018W, 2019W, 2020W</p>
-          <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (ITCS403) 2017F, 2018F, 2019F, 2020F, Dongguk Univ. (PAS4022) 2020S, 2021S</p>
+          <p style="text-indent: -1em;">- <b>Digital forensics</b><br> Ewha Univ. (38497) Fall 2020, Spring 2021</p>
+          <p style="text-indent: -1em;">- <b>Practical affarirs in digital forensic</b><br> Korea Univ. (IMS4001) Winter 2018/2019/2020</p>
+          <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (ITCS403) Fall 2017/2018/2019/2020, Dongguk Univ. (PAS4022) Spring 2020/2021</p>
 
       - layout: left
         title: Support
@@ -182,8 +182,10 @@ content:
           <p style="text-indent: -1em;">j14. <b>Improvements of Searching and Seizing Steganographic Evidence</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002671199" target = "top">ePrint</A>]<br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
           <p style="text-indent: -1em;">j13. <b>A study on forensic analysis for Windows search utility Everything</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002636122" target = "top">ePrint</A>]<br>Kim, D., Han, J., & Lee, S. (2020). Journal of Digital Forensics, 14(3), 279-289.</p>
           <p style="text-indent: -1em;">c9. <b>검색 유틸리티 Everything에 대한 포렌식 분석 및 활용 기법 연구</b><span style="color: green;"> * Best paper award</span><br>김동현, 한재혁, 이상진, 한국디지털포렌식학회 하계학술대회(WDFS-2020s), 2020.07.</p>
+# Workshop of Digital forensics-Summer/Winter (WDFS-s/w)
           <p style="text-indent: -1em;">j12. <b>Secure File Transfer Method and Forensic Readiness by converting file format in Network Segmentation Environment</b> [<A href = "http://koreascience.or.kr/article/JAKO201926072346469.page" target = "top">ePrint</A>]<br>Han, J., Yoon, Y., Hur, G., Lee, J., Choi, J., Hong, S., & Lee, S. (2019). Journal of the Korea Institute of Information Security & Cryptology, 29(4), 859-866.</p>
           <p style="text-indent: -1em;">c8. <b>윈도우에서 ZIP 파일 생성 프로그램 추정 기법</b><br>엄민지, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S 2020), 2019.07.</p>
+# Conference on Information Security and Cryptography-Summer/Winter 2020 (CISC-s/w), Korea Institute Of Information security & Cryptology.(KIISC)
           <p style="text-indent: -1em;">c7. <b>디지털 증거 인증 및 디지털 포렌식 도구 검증제도에 관한 연구</b><br>한재혁, 권양섭, 한국법과학회 2019 추계학술대회, 2019.10.</p>
           <p style="text-indent: -1em;">j11. <b>5W1H based Information Expression Standard for efficient digital forensic investigation</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002487041" target = "top">ePrint</A>]<br>Yun, W., Han, J., & Lee, S. (2019). Journal of Digital Forensics, 13(2), 127-136.</p>          
           <p style="text-indent: -1em;">c6. <b>윈도우 실행파일의 특징 추출을 통한 프로파일링 기법 연구</b><span style="color: green;"> * Best paper award</span><br>이선호, 한재혁, 이상진, 한국정보보호학회 하계학술대회(CISC-S 2019), 2019.06.</p>
