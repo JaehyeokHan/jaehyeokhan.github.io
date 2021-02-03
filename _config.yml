@@ -104,8 +104,8 @@ content:
     layout: list
     content:
       - layout: left
-        title: Project
-#       sub_title: Job title
+        title: professional
+        sub_title: Project, Research
 #       caption: Date Range (eg. November 2016 - present)
 #       link: Link to company (optional)
         quote: >
@@ -114,7 +114,8 @@ content:
           Writing
 
       - layout: left
-        title: Academic
+        title: Teaching
+        sub_title: Academic, Tutorials
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
@@ -123,7 +124,7 @@ content:
           <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (ITCS403) Fall 2017/2018/2019/2020, Dongguk Univ. (PAS4022) Spring 2020/2021</p>
 
       - layout: left
-        title: Support
+        title: Other Supports
         sub_title: Case, Media, etc.
         quote: >
           TBC
