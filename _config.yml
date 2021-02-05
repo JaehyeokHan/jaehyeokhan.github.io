@@ -66,25 +66,25 @@ content:
     layout: text2
     content:
       - layout: left
-        title: Korea University, Seoul, South Korea (March 2016 - Present)
+        title: Korea University, Seoul, South Korea 
         # sub_title: March 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          Ph.D student
+          Ph.D student (March 2016 - Present)
 #         Dissertation:
 
       - layout: left
         title: Korea University, South Korea, 2016
         # sub_title: March 2014 - February 2016
-        description: | # this will include new lines to allow paragraphs
-          <p>Master of Engineering (M.E.) in Information security (Digital forensics)</p>
+        description: | # Master of Engineering
+          <p> M.E. in Information security (Digital forensics)</p>
           <p>Master's Thesis: <i><A href = "https://library.korea.ac.kr/detail/?cid=CAT000045866940&ctype=t" target = "top">Analysis of the HIKVISION DVR filesystem</A></i></p>
           <p>Supervised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A></p>
           
       - layout: left
         title: University of Seoul, Seoul, South Korea, 2011
         # sub_title: March 2007 - February 2011
-        description: | # this will include new lines to allow paragraphs
-          <p>Bachelor of Science (B.S) in Mathematics</p>
+        description: | # Bachelor of Science
+          <p> B.S in Mathematics</p>
           <p>Supervised by <A href = "https://www.uos.ac.kr/en/professor/view.do?proseq=14&code=20031&pageIndex=1&epTicket=LOG" target = "top">Jaechul Sung</A></p>
 
   - title: Professional Experience # Title for the section
@@ -108,43 +108,23 @@ content:
     content:
       - layout: left
         title: Academic
-        sub_title: Academic, Tutorials
+        #sub_title: Academic, Tutorials
         #caption: Date Range (eg. November 2016 - present)
         #link: Link to company (optional)
-        quote: >
-          TBC
+        #quote: >
+        #  TBC
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b>Ewha University, 2020-</b><br>38497: Digital forensics (Fall 2020, Spring 2021)</p>
           <p style="text-indent: -1em;"><b>Dongguk University, 2020-</b><br>PAS4022: Mobile forensics (Spring 2020; Spring 2021)</p>
           <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic (Winter 2018; Winter 2019; Winter 2020)</p>
-          <p>&#242;</p>
-          <p>&#243;</p>
-          <p>&#244;</p>
-          <p>&#245;</p>
-          <p>&#246;</p>
-          <p>&#95;</p>
-          <p>&#45;</p>
+          
       - layout: left
         title: Tutorials
-        sub_title: Academic, Tutorials
+        #sub_title: Academic, Tutorials
         quote: >
           TBC
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;">- <b>Digital forensics</b><br> Ewha Univ. (38497) Fall 2020, Spring 2021</p>
-          <p style="text-indent: -1em;">- <b>Practical affarirs in digital forensic</b><br> Korea Univ. (IMS4001) Winter 2018/2019/2020</p>
-          <p style="text-indent: -1em;">- <b>Mobile forensics</b><br> Korea Univ. (ITCS403) Fall 2017/2018/2019/2020, Dongguk Univ. (PAS4022) Spring 2020/2021</p>
-
-
-      - layout: left
-        title: Other Supports
-        sub_title: Case, Media, etc.
-        quote: >
-          TBC
-        description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;">- <b>전화번호·가족까지… 30분만에 인터넷서 발가벗겨졌다</b> (5 May 2016). [<A href = "https://www.chosun.com/site/data/html_dir/2016/05/05/2016050500174.html" target = "top">link</A>]</p>
-          <p style="text-indent: -1em;">- <b>해킹, 보이지 않는 위협</b> (25 May 2016). [<A href = "https://science.ytn.co.kr/program/program_view.php?s_mcd=1191&s_hcd=&key=201605260916329470&page=1" target = "top">link</A>]</p>
-          <p style="text-indent: -1em;">- <b>페이스북, 통화·문자 다 엿봤다…방통위 조사 착수</b> (27 March 2018). [<A href = "https://news.sbs.co.kr/news/endPage.do?news_id=N1004685651" target = "top">link</A>]</p>
-#쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서
+          <p style="text-indent: -1em;"></p>
 
   - title: Publication
     layout: list
@@ -219,12 +199,16 @@ content:
 # This paper was presented at Workshop of Digital forensics-Summer (WDFS-s) 2020 hosted by the Korea Digital Forensics Society
 
           
-# - title: A Little More About Me
-#   layout: text
-#    content: | # this will include new lines to allow paragraphs
+  - title: Supports for the common good
+    layout: text
+    content: | # this will include new lines to allow paragraphs
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-#
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+          <p style="text-indent: -1em;">- <b>전화번호·가족까지… 30분만에 인터넷서 발가벗겨졌다</b> (5 May 2016). [<A href = "https://www.chosun.com/site/data/html_dir/2016/05/05/2016050500174.html" target = "top">link</A>]</p>
+          <p style="text-indent: -1em;">- <b>해킹, 보이지 않는 위협</b> (25 May 2016). [<A href = "https://science.ytn.co.kr/program/program_view.php?s_mcd=1191&s_hcd=&key=201605260916329470&page=1" target = "top">link</A>]</p>
+          <p style="text-indent: -1em;">- <b>페이스북, 통화·문자 다 엿봤다…방통위 조사 착수</b> (27 March 2018). [<A href = "https://news.sbs.co.kr/news/endPage.do?news_id=N1004685651" target = "top">link</A>]</p>
+#쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서
+
 
 # Footer
 footer_show_references: false #true
