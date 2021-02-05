@@ -73,7 +73,7 @@ content:
 #         Dissertation:
 
       - layout: left
-        title: Korea University, South Korea, 2016
+        title: Korea University, Seoul, South Korea, 2016
         # sub_title: March 2014 - February 2016
         description: | # Master of Engineering
           <p> M.E. in Information security (Digital forensics)</p>
@@ -114,8 +114,8 @@ content:
         #quote: >
         #  TBC
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>Ewha University, 2020-</b><br>38497: Digital forensics (Fall 2020, Spring 2021)</p>
-          <p style="text-indent: -1em;"><b>Dongguk University, 2020-</b><br>PAS4022: Mobile forensics (Spring 2020; Spring 2021)</p>
+          <p style="text-indent: -1em;"><b>Ewha University, 2020--</b><br>38497: Digital forensics (Fall 2020, Spring 2021)</p>
+          <p style="text-indent: -1em;"><b>Dongguk University, 2020--</b><br>PAS4022: Mobile forensics (Spring 2020; Spring 2021)</p>
           <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic (Winter 2018; Winter 2019; Winter 2020)</p>
           
       - layout: left
@@ -170,7 +170,7 @@ content:
           
       - layout: left
         title: Domestics (in Korea)
-        sub_title: Journal & Conference
+        sub_title: Journal articles <br>& Conference papers
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">j14. <b>Improvements of Searching and Seizing Steganographic Evidence</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002671199" target = "top">ePrint</A>]<br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
           <p style="text-indent: -1em;">j13. <b>A study on forensic analysis for Windows search utility Everything</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002636122" target = "top">ePrint</A>]<br>Kim, D., Han, J., & Lee, S. (2020). Journal of Digital Forensics, 14(3), 279-289.</p>
