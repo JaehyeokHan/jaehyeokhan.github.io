@@ -100,11 +100,15 @@ content:
         #    url: https://github.com/dfrc-korea/carpe
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics, Development of Digital Forensic Integration Platform</A></b>[<A href = "http://carpeforensics.org/" target = "top">src</A>]<br>May 2018 -- December 2020<br>Supported by Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)<br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.</p>
-        
+          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics, Development of Digital Forensic Integration Platform</A></b>[<A href = "http://carpeforensics.org/" target = "top">src</A>]
+          <br>May 2018 -- December 2020
+          <br>Supported by Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)
+          <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.</p>
+      
+      - layout: left        
         title: 2014
         description: | # this will include new lines to allow paragraphs
-          <p>tbc</p>
+          <p>TBC</p>
     
   - title: Teaching Experience
     layout: list
@@ -122,7 +126,7 @@ content:
           <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic (Winter 2018; Winter 2019; Winter 2020)</p>
           
       - layout: left
-        title: Presentations and Tutorials
+        title: Tutorials
         #sub_title: Academic, Tutorials
         quote: >
           TBC
@@ -166,9 +170,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
           <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">buy</A>] [<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
-          <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han. (Published by BJ Republic on 20 July 2017)
-          <br>ISBN : 9791186697382(1186697385)
-          <br>Review : TBC
+          <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han
+          <br>Published by BJ Republic on 20 July 2017 (ISBN: 9791186697382; 1186697385)
+          <br>Review: TBC
 
           
       - layout: left
