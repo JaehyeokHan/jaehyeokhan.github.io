@@ -54,7 +54,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, I have studied as a Ph.D. student in with the School of Cybersecurity at Korea University, and have worked as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP).
   
-  My research interests include *digital forensics*, *information security*, and *cryptography*.
+  My research interests include *cyber security*, *digital forensics*, and *cryptography*.
 
   - <A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A> at <A href = "http://www.korea.edu/" target = "top">Korea University</A>
   - <A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A> at Korea University
@@ -69,21 +69,21 @@ content:
         title: Korea University, Seoul, South Korea 
         # sub_title: March 2016 - Present
         description: | # this will include new lines to allow paragraphs
-          Ph.D student (March 2016 - Present)
+          Ph.D student, School of Cybersecurity (March 2016 - Present)
 #         Dissertation:
 
       - layout: left
         title: Korea University, Seoul, South Korea, 2016
         # sub_title: March 2014 - February 2016
-        description: | # Master of Engineering
-          <p> M.E. in Information security (Digital forensics)</p>
+        description: | # Master of Engineering, Graduate School of Information Security
+          <p> M.E. in Information security</p>
           <p>Master's Thesis: <i><A href = "https://library.korea.ac.kr/detail/?cid=CAT000045866940&ctype=t" target = "top">Analysis of the HIKVISION DVR filesystem</A></i></p>
           <p>Supervised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A></p>
           
       - layout: left
         title: University of Seoul, Seoul, South Korea, 2011
         # sub_title: March 2007 - February 2011
-        description: | # Bachelor of Science
+        description: | # Bachelor of Science, College of Natural Science
           <p> B.S in Mathematics</p>
           <p>Supervised by <A href = "https://www.uos.ac.kr/en/professor/view.do?proseq=14&code=20031&pageIndex=1&epTicket=LOG" target = "top">Jaechul Sung</A></p>
 
