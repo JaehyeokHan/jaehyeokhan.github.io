@@ -91,17 +91,16 @@ content:
     layout: list # Type of content section (list/text/text2)
     content:
       - layout: left
-        title: CARPE Forensics
-        link: http://carpeforensics.org/
-        link_text: http://carpeforensics.org/
-        additional_links:
-          - title:  Github page for project
-            icon: fab fa-github
-            url: https://github.com/dfrc-korea/carpe
-        quote: >
-          Comprehensive Analysis and Research Platform for digital Evidence
+        title: 2018--
+        #link: 
+        #link_text: 
+        #additional_links:
+        #  - title:  Github page for project
+        #    icon: fab fa-github
+        #    url: https://github.com/dfrc-korea/carpe
+        #quote: >
         description: | # this will include new lines to allow paragraphs
-          CARPE is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.
+          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics, Development of Digital Forensic Integration Platform</A></b>[<A href = "http://carpeforensics.org/" target = "top">src</A>]<br>May 2018 -- December 2020<br>Supported by Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)<br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.</p>
     
   - title: Teaching Experience
     layout: list
@@ -119,7 +118,7 @@ content:
           <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic (Winter 2018; Winter 2019; Winter 2020)</p>
           
       - layout: left
-        title: Tutorials
+        title: Presentations and Tutorials
         #sub_title: Academic, Tutorials
         quote: >
           TBC
