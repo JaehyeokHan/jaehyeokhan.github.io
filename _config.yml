@@ -100,15 +100,25 @@ content:
         #    url: https://github.com/dfrc-korea/carpe
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics, Development of Digital Forensic Integration Platform</A></b>[<A href = "http://carpeforensics.org/" target = "top">src</A>]
-          <br>May 2018 -- December 2020
-          <br>Supported by Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)
-          <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is Digital Forensic Integration Framework. Because this framework is open source, it can be used to build digital forensic infrastructure through ecosystem building. In addition, verification of the code can evolve to a reliable level of code, and development can be carried out with user requirements. For the digital forensic analyst, this technology enables efficient work in the analysis process through automated modules. In the developer's view, it can be used to develop not only digital forensic research but also own tool by utilizing open source. Recently, the processing technology for large-capacity data is developed for each module, and not only related data analysis but also keyword search, string extraction, and file fragment recombination are provided.</p>
+          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics: Development of Digital Forensic Integration Platform</A></b> [<A href = "http://carpeforensics.org/" target = "top">src</A>]
+          <br>Supported by IITP, Ministry of Science and ICT, May 2018 -- December 2020
+          <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is digital forensic integration framework. For the digital forensicist, this technology enables efficient work in the analysis process through automated modules, and for the software developer, it can be used to implement not only digital forensic research but also own tool by utilizing open source.</p>
+#         Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)
+
+      - layout: left        
+        title: 2015
+        description: | # this will include new lines to allow paragraphs
+          <p>TBC</p>
+
+ but there are also a number of important papers, people, and organizations involved. Many of those organizations sponsor conferences throughout the year and around the world. You may also wish to examine the popular journals and some special reports.
       
       - layout: left        
         title: 2014
         description: | # this will include new lines to allow paragraphs
-          <p>TBC</p>
+          <p style="text-indent: -1em;"><b><A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">Digital Forensics Wikipedia</A></b>
+          <br>Supported by SPO, Ministry of Justice, June 2014 -- November 2014
+          <br>An archive of knowledge in the digital forensics focused on the tools and techniques for investigators</p>
+#         Supreme Prosecutors' Office (SPO) Ref. https://forensicswiki.xyz/
     
   - title: Teaching Experience
     layout: list
