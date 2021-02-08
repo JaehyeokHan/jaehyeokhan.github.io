@@ -66,7 +66,7 @@ content:
     layout: text2
     content:
       - layout: left
-        title: Korea University, Seoul, South Korea 
+        title: Korea University, Seoul, South Korea
         # sub_title: March 2016 - Present
         description: | # this will include new lines to allow paragraphs
           Ph.D student, School of Cybersecurity (March 2016 - Present)
@@ -101,10 +101,10 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics: Development of Digital Forensic Integration Platform</A></b> [<A href = "http://carpeforensics.org/" target = "top">src</A>]
-          <br>Supported by IITP, Ministry of Science and ICT., May 2018 -- December 2020.
+          <br>May 2018 -- December 2020. Supported by IITP, Ministry of Science and ICT.
           <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is digital forensic integration framework. For the digital forensicist, this technology enables efficient work in the analysis process through automated modules, and for the software developer, it can be used to implement not only digital forensic research but also own tool by utilizing open source.</p>
           <p style="text-indent: -1em;"><b>A Research on ReFS (Resilient File System) file system analysis and recovery technology</b>
-          <br> Supported by Affiliated Institute of ETRI. April 2018 -- October 2018.</p> 
+          <br> April 2018 -- October 2018. Supported by Affiliated Institute of ETRI.</p> 
 # Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)
 
       - layout: left        
@@ -116,21 +116,21 @@ content:
         title: 2016
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b>Bigdata platform research for Cyber risk prediction based on global malware data analysis</b>
-          <br>Supported by IITP, Ministry of Science, ICT and Future Planning., April 2016 -- December 2016.
+          <br>April 2016 -- December 2016. Supported by IITP, Ministry of Science, ICT and Future Planning.
           <br>Collection and Acquisition of the information on predicting the cyber risk of national's Internet networks, and Securing the basis for standardization of malcious codes detection.</p> 
 
       - layout: left        
         title: 2015
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b>A Research on EnScript programming techniques and development of educational materials</b>
-          <br>Supported by SPO, Ministry of Justice., May 2015 -- February 2015.
+          <br> May 2015 -- February 2015. Supported by SPO, Ministry of Justice.
           <br>Program development using scripting language EnScript on EnCase for the domestic investigation environment.</p> 
       
       - layout: left        
         title: 2014
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b><A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">Digital Forensics Wikipedia</A></b>
-          <br>Supported by SPO, Ministry of Justice., June 2014 -- November 2014.
+          <br>June 2014 -- November 2014. Supported by SPO, Ministry of Justice.
           <br>An archive of knowledge in the digital forensics focused on the tools and techniques for investigators</p>
 #         Supreme Prosecutors' Office (SPO) Ref. https://forensicswiki.xyz/
     
@@ -193,7 +193,7 @@ content:
         title: Book
         description: | # this will include new lines to allow paragraphs
           <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
-          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">buy</A>] [<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
+          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>] [<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
           <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han
           <br>Published by BJ Republic on 20 July 2017 (ISBN: 9791186697382; 1186697385)
           <br>Review: TBC
@@ -209,7 +209,7 @@ content:
           <p style="text-indent: -1em;">17. <b>Structural features of ZIP files by method for creating the file in Windows</b><br>Um, M., Han, J., & Lee, S. (2020). Conference on Information Security and Cryptography-Summer 2020 (CISC-S’20).</p>
           <p style="text-indent: -1em;">16. <b>A Study on Digital Evidence Authentication and Tool Testing System</b><br>Han, J., & Kwon, Y. (2019.) The Autumn Convention of Korean Society of Forensic Science, KSFS.</p>
           <p style="text-indent: -1em;">15. <b>5W1H based Information Expression Standard for efficient digital forensic investigation</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002487041" target = "top">ePrint</A>]<br>Yun, W., Han, J., & Lee, S. (2019). Journal of Digital Forensics, 13(2), 127-136.<br>* This study was presented at WDFS-s 2019., KDFS.</p>          
-          <p style="text-indent: -1em;">14. <b>A Study on Profiling Technique by Feature Extraction of Windows Executables</b><span style="color: green;"> * Best paper award</span><br>Lee, S., Han, J., & Lee, S. (2019). Conference on Information Security and Cryptography-Summer 2019 (CISC-S’19).<br>* This study was received the best paper award.</p>
+          <p style="text-indent: -1em;">14. <b>A Study on Profiling Technique by Feature Extraction of Windows Executables</b><br>Lee, S., Han, J., & Lee, S. (2019). Conference on Information Security and Cryptography-Summer 2019 (CISC-S’19).<br>* This study was received the best paper award.</p>
           <p style="text-indent: -1em;">13. <b>Study on History Tracking Technique of the Document File through RSID Analysis in MS Word</b> [<A href = "http://koreascience.or.kr/article/JAKO201807753430904.page" target = "top">ePrint</A>]<br>Joun, J., Han, J., Jung, D., & Lee, S. (2018). Journal of the Korea Institute of Information Security & Cryptology, 28(6), 1439-1448.</p>
           <p style="text-indent: -1em;">12. <b>A Study on Detecting Data Hiding Area of Removable Storage Device Based on Flash Memory</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002393780" target = "top">ePrint</A>]<br>Kim, S., Han, J., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 21-29.<br>* This study was presented at WDFS-s 2018., KDFS.</p>
           <p style="text-indent: -1em;">11. <b>A Study on the Possibility of Recovering Deleted Data through Analysis of SQLite Journal in Messenger Application</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002393775" target = "top">ePrint</A>]<br>Jung, B., Han, J., Choi, H., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 11-20.<br>* This study was presented at WDFS-s 2018., KDFS., and received the best paper award.</p>
