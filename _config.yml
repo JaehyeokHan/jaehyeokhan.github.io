@@ -100,7 +100,7 @@ content:
         #    url: https://github.com/dfrc-korea/carpe
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b><A href = "http://carpeforensics.org/" target = "top">CARPE Forensics: Development of Digital Forensic Integration Platform</A></b> [<A href = "http://carpeforensics.org/" target = "top">src</A>]
+          <p style="text-indent: -1em;"><b>CARPE Forensics: Development of Digital Forensic Integration Platform</b> <A href = "http://carpeforensics.org/" target = "top">link</A> [<A href = "http://carpeforensics.org/" target = "top">src</A>]
           <br>May 2018 -- December 2020. Supported by IITP, Ministry of Science and ICT.
           <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is digital forensic integration framework. For the digital forensicist, this technology enables efficient work in the analysis process through automated modules, and for the software developer, it can be used to implement not only digital forensic research but also own tool by utilizing open source.</p>
           <p style="text-indent: -1em;"><b>A Research on ReFS (Resilient File System) file system analysis and recovery technology</b>
@@ -136,7 +136,7 @@ content:
       - layout: left        
         title: 2014
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b><A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">Digital Forensics Wikipedia</A></b>
+          <p style="text-indent: -1em;"><b>Digital Forensics Wikipedia</b> [<A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">link</A>]
           <br>June 2014 -- November 2014. Supported by SPO, Ministry of Justice.
           <br>An archive of knowledge in the digital forensics focused on the tools and techniques for investigators</p>
 #         Supreme Prosecutors' Office (SPO) Ref. https://forensicswiki.xyz/
@@ -200,7 +200,7 @@ content:
         title: Book
         description: | # this will include new lines to allow paragraphs
           <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
-          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>] [<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
+          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>][<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
           <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han
           <br>Published by BJ Republic on 20 July 2017 (ISBN: 9791186697382; 1186697385)
           <br>Review: TBC
