@@ -110,7 +110,14 @@ content:
       - layout: left        
         title: 2017
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>TBC</b></p> 
+          <p style="text-indent: -1em;"><b>Cyber Command and Control Framework Research</b>
+          <br>August 2017 -- December 2018. Supported by Agency for Defense Development
+          <br>Identification of the fundermental technologies for the future of the cyber forensic system in the realm of defence.</p> 
+          <p style="text-indent: -1em;"><b>Cyber Command and Control Framework Research</b>
+          <br>August 2017 -- December 2018. Supported by Agency for Defense Development
+          <br>Development of the Neural network-based password analysis system
+          <br>March 2017 -- November 2017. Supported by Affiliated Institute of ETRI.
+          </p> 
 
       - layout: left        
         title: 2016
@@ -118,7 +125,10 @@ content:
           <p style="text-indent: -1em;"><b>Bigdata platform research for Cyber risk prediction based on global malware data analysis</b>
           <br>April 2016 -- December 2016. Supported by IITP, Ministry of Science, ICT and Future Planning.
           <br>Collection and Acquisition of the information on predicting the cyber risk of national's Internet networks, and Securing the basis for standardization of malcious codes detection.</p> 
-
+          <p style="text-indent: -1em;"><b>Vulnerability analysis on the Smart Grid embedded device and PoC code development to exploit vulnerabilites</b>
+          <br>October 2016 -- October 2017. Supported by Korea Electric Power Corporation (KEPCO) Research Institute.
+          <br></p> Analyis of the firmware binary code with reverse engineering for a detailed understanding of mechanism on the DCU (Data Collection Unit)s and smart meters.
+          
       - layout: left        
         title: 2015
         description: | # this will include new lines to allow paragraphs
