@@ -64,7 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education
     layout: text2
-    content:
+    content: _test/education.yml
       - layout: left
         title: Korea University, Seoul, South Korea
         # sub_title: March 2016 - Present
@@ -261,6 +261,7 @@ footer_show_references: false #true
 data_dir:
  - _page
  - _data
+ - _test
 
 sass:
   sass_dir: _sass
