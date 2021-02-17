@@ -202,11 +202,32 @@ content:
         title: Book
         description: | # this will include new lines to allow paragraphs
           <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
-          <br>Original title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>][<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
+          <br>Title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>][<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
           <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han
           <br>Published by BJ Republic on 20 July 2017 (ISBN: 9791186697382; 1186697385)
           <br>Review: TBC
-
+          
+      - layout: left
+        title: Standards
+        description: | # this will include new lines to allow paragraphs
+          <p style="text-indent: -1em;"><b>Guidelines on Mobile Device Forensics</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0059/R1" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0059/R1
+          <br>Issued date: 10 December 2020</p>
+          <p style="text-indent: -1em;"><b>Data Specification for Digital Forensic Investigation: Part 3. Examples Reference Model for Data Processing Interoperability</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part3" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0353-Part3
+          <br>Issued date: 11 December 2019</p>
+          <p style="text-indent: -1em;"><b>Data Expression Standard for Digital Forensic Investigation : Part 2. Data Types and Definition</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part2" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0353-Part2
+          <br>Issued date: 11 December 2019</p>
+          <p style="text-indent: -1em;"><b>Data Expression Standard for Digital Forensic Investigation : Part 1. Overview and Requirements</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part1" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0353-Part1
+          <br>Issued date: 11 December 2019</p>
+          <p style="text-indent: -1em;"><b>Guidelines of Packet Processing for Network Forensics</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0339" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0339
+          <br>Issued date: 19 December 2018</p>
+          <p style="text-indent: -1em;"><b>Guidelines for Collection, Acquisition, and Preservation of Digital Evidence</b> <A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0058/R1" target = "top">link</A>]
+          <br>Standard Number: TTAK.KO-12.0058/R1
+          <br>Issued date: 13 December 2017</p>
           
       - layout: left
         title: Domestics (in Korea)
