@@ -230,7 +230,7 @@ content:
           <br>Issued date: 13 December 2017</p>
           
       - layout: left
-        title: Domestics (in Korea)
+        title: Domestics<br>(in Korea)
         sub_title: Journal articles <br>& Conference papers
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">20. <b>Improvements of Searching and Seizing Steganographic Evidence</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002671199" target = "top">ePrint</A>]<br>Yoon, S., Han, J., Kwon, H., & Lee, S. (2020). Korean Lawyers Association Journal, 69(6), 184-225.</p>
