@@ -203,8 +203,8 @@ content:
         description: | # this will include new lines to allow paragraphs
           <p><b>EnScript Programming for Digital Forensic Analysis: Learn Basics and Useages with 8 Hands-On Examples</b>
           <br>Title: 디지털 포렌식 분석을 위한 EnScript 프로그래밍: 8가지 실전 예제로 배우는 EnScript 기초 및 활용 [<A href = "http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791186697382" target = "top">shop</A>][<A href = "https://github.com/bjpublic/enscript" target = "top">src</A>]
-          <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han
-          <br>Published by BJ Republic on 20 July 2017 (ISBN: 9791186697382; 1186697385)
+          <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han.
+          <br>Published by BJ Republic on 20 July 2017. (ISBN: 9791186697382; 1186697385)
           <br>Review: TBC
           
       - layout: left
