@@ -50,14 +50,14 @@ gtag: "G-EBNBGEBGNZ"
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I received B.S. in Natural Science College of Mathematics from University of Seoul (UOS) and M.E. degrees in School of Cybersecurity from Korea University in 2011 and 2016, respectively. Since March 2016, I have studied as a Ph.D. student in with the School of Cybersecurity at Korea University, and have worked as a researcher of Digital Forensic Research Center (DRFC) at Institute of Cyber Security & Privacy (ICSP).
-  
+
   My research interests include *cyber security*, *digital forensics*, and *cryptography*.
 
   - <A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A> at <A href = "http://www.korea.edu/" target = "top">Korea University</A>
   - <A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A> at Korea University
   - <A href = "http://forensic.korea.ac.kr/" target = "top">Digital Forensic Research Center (DFRC)</A> [*<A href = "https://sites.google.com/a/forensic.or.kr/main/" target = "top">RETR</A>*] at ICSP
-  
-  
+
+
 content:
   - title: Education
     layout: text2
@@ -76,7 +76,7 @@ content:
           <p> M.E. in Information security</p>
           <p>Master's Thesis: <i><A href = "https://library.korea.ac.kr/detail/?cid=CAT000045866940&ctype=t" target = "top">Analysis of the HIKVISION DVR filesystem</A></i></p>
           <p>Supervised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A></p>
-          
+
       - layout: left
         title: University of Seoul, Seoul, South Korea, 2011
         # sub_title: March 2007 - February 2011
@@ -87,15 +87,15 @@ content:
   - title: Professional Experience # Title for the section
     layout: list # Type of content section (list/text/text2)
     content:
-      - layout: left        
+      - layout: left
         title: 2019--2020
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;">TBC</p> 
-    
+          <p style="text-indent: -1em;">TBC</p>
+
       - layout: left
         title: 2018
-        #link: 
-        #link_text: 
+        #link:
+        #link_text:
         #additional_links:
         #  - title:  Github page for project
         #    icon: fab fa-github
@@ -106,43 +106,43 @@ content:
           <br>May 2018 -- December 2020. Supported by IITP, Ministry of Science and ICT.
           <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is digital forensic integration framework. For the digital forensicist, this technology enables efficient work in the analysis process through automated modules, and for the software developer, it can be used to implement not only digital forensic research but also own tool by utilizing open source.</p>
           <p style="text-indent: -1em;"><b>A Research on ReFS (Resilient File System) file system analysis and recovery technology</b>
-          <br> April 2018 -- October 2018. Supported by Affiliated Institute of ETRI (NSR).</p> 
+          <br> April 2018 -- October 2018. Supported by Affiliated Institute of ETRI (NSR).</p>
 # Institute of Information & Communications Technology Planning & Evaluation (IITP), Ministry of Science and ICT (MSIT)
 
-      - layout: left        
+      - layout: left
         title: 2017
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>Cyber Command and Control Framework Research</b>
+          <p style="text-indent: -1em;"><b>Cyber command and control framework research</b>
           <br>August 2017 -- December 2018. Supported by Agency for Defense Development.
-          <br>Identification of the fundermental technologies for the future of the cyber forensic system in the realm of defence.</p> 
-          <p style="text-indent: -1em;"><b>Development of the Neural network-based password analysis system</b>
-          <br>March 2017 -- November 2017. Supported by Affiliated Institute of ETRI (NSR).</p> 
+          <br>Identification of the fundermental technologies for the future of the cyber forensic system in the realm of defence.</p>
+          <p style="text-indent: -1em;"><b>Development of the neural network-based password analysis system</b>
+          <br>March 2017 -- November 2017. Supported by Affiliated Institute of ETRI (NSR).</p>
 
-      - layout: left        
+      - layout: left
         title: 2016
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>Bigdata platform research for Cyber risk prediction based on global malware data analysis</b>
+          <p style="text-indent: -1em;"><b>Bigdata platform research for cyber risk prediction based on global malware data analysis</b>
           <br>April 2016 -- December 2016. Supported by IITP, Ministry of Science, ICT and Future Planning.
-          <br>Collection and Acquisition of the information on predicting the cyber risk of national's Internet networks, and Securing the basis for standardization of malcious codes detection.</p> 
+          <br>Collection and Acquisition of the information on predicting the cyber risk of national's Internet networks, and Securing the basis for standardization of malcious codes detection.</p>
           <p style="text-indent: -1em;"><b>Vulnerability analysis on the Smart Grid embedded device and PoC code development to exploit vulnerabilites</b>
           <br>October 2016 -- October 2017. Supported by Korea Electric Power Corporation (KEPCO) Research Institute.
           <br>Analyis of the firmware binary code with reverse engineering for a detailed understanding of mechanism on the DCU (Data Collection Unit)s and smart meters.</p>
-          
-      - layout: left        
+
+      - layout: left
         title: 2015
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b>A Research on EnScript programming techniques and development of educational materials</b>
           <br> May 2015 -- February 2015. Supported by SPO, Ministry of Justice.
-          <br>Program development using scripting language EnScript on EnCase for the domestic investigation environment.</p> 
-      
-      - layout: left        
+          <br>Program development using scripting language EnScript on EnCase for the domestic investigation environment.</p>
+
+      - layout: left
         title: 2014
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>Digital Forensics Wikipedia</b> [<A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">link</A>]
+          <p style="text-indent: -1em;"><b>Digital forensics wikipedia</b> [<A href = "http://forensic.korea.ac.kr/DFWIKI/index.php/%EB%8C%80%EB%AC%B8" target = "top">link</A>]
           <br>June 2014 -- November 2014. Supported by SPO, Ministry of Justice.
           <br>An archive of knowledge in the digital forensics focused on the tools and techniques for investigators.</p>
 #         Supreme Prosecutors' Office (SPO) Ref. https://forensicswiki.xyz/
-    
+
   - title: Teaching Experience
     layout: list
     content:
@@ -157,7 +157,7 @@ content:
           <p style="text-indent: -1em;"><b>Ewha University, 2020--</b><br>38497: Digital forensics. (Fall 2020)</p>
           <p style="text-indent: -1em;"><b>Dongguk University, 2020--</b><br>PAS4022: Mobile forensics. (Spring 2020)</p>
           <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics. (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic. (Winter 2018; Winter 2019; Winter 2020)</p>
-          
+
       - layout: left
         title: Tutorials
         #sub_title: Academic, Tutorials
@@ -180,11 +180,11 @@ content:
          <p style="text-indent: -1em;">3. <b>5W1H-based Expression for the Effective Sharing of Information in Digital Forensic Investigations</b> [<A href = "https://arxiv.org/abs/2010.15711" target = "top">arXiv</A>]<br>Han, J., Kim, J., & Lee, S. (2020). arXiv preprint arXiv:2010.15711.</p>
          <p style="text-indent: -1em;">2. <b>Forensic analysis of the Windows telemetry for diagnostics</b> [<A href = "https://arxiv.org/abs/2002.12506" target = "top">arXiv</A>]<br>Han, J., Park, J., Chung, H., & Lee, S. (2020). arXiv preprint arXiv:2002.12506.</p>
          <p style="text-indent: -1em;">1. <b>Threat Assessment for Android Environment with Connectivity to IoT Devices from the Perspective of Situational Awareness</b><br>Park, M., Han, J., Oh, H., & Lee, K. (2019). Wireless Communications and Mobile Computing, 2019.</p>
-          
+
       - layout: left
         title: Conforence papers
 #       quote: >
-#         Short description of the company (optional)        
+#         Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">11. <b>I can login without your password: Data acquisition from web based server using user credential attack</b><br>Han, J., Chung, H., & Lee, S. (2021). DFRWS APAC 2021 (short paper).</p>
           <p style="text-indent: -1em;">10. <b>A Study on the Processing of Timestamps in Creating Multimedia Files on Mobile devices</b><br>Han, J., & Lee, S. (2020). The 12th International Conference Computer Science and its Applications (CSA2020).</p>
@@ -197,7 +197,7 @@ content:
           <p style="text-indent: -1em;">3. <b>FAIR-Based Cyber Influence Damage Assessment for Exploit in Mobile Device</b><br>Park, M., Han, J., Seo, J., Oh, H., & Lee, K. (2017, October). In International Symposium on Mobile Internet Security (pp. 51-64). Springer, Singapore.</p>
           <p style="text-indent: -1em;">2. <b>A practical approach to analyze smartphone backup data as a digital evidence</b> [<A href = "https://www.researchgate.net/publication/315379157_A_practical_approach_to_analyze_smartphone_backup_data_as_a_digital_evidence" target = "top">pdf</A>]<br>Han, J., & Lee, S. (2016). DFRWS USA 2016 (presentation).</p>
           <p style="text-indent: -1em;">1. <b>Analysis of the HIKVISION DVR file system</b> [<A href = "https://eudl.eu/pdf/10.1007/978-3-319-25512-5_13" target = "top">eudl</A>]<br>Han, J., Jeong, D., & Lee, S. (2015, October). In International Conference on Digital Forensics and Cyber Crime (pp. 189-199). Springer, Cham.</p>
-          
+
       - layout: left
         title: Book
         description: | # this will include new lines to allow paragraphs
@@ -206,7 +206,7 @@ content:
           <br>Author: Minsik Kim, Sangjin Lee, & Jaehyeok Han.
           <br>Published by BJ Republic on 20 July 2017. (ISBN: 9791186697382; 1186697385)
           <br>Review: TBC
-          
+
       - layout: left
         title: Standards
         description: | # this will include new lines to allow paragraphs
@@ -225,7 +225,7 @@ content:
           <p style="text-indent: -1em;">1. <b>Guidelines for Collection, Acquisition, and Preservation of Digital Evidence</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0058/R1" target = "top">link</A>]
           <br>Standard Number: TTAK.KO-12.0058/R1.
           <br>Issued date: 13 December 2017.</p>
-          
+
       - layout: left
         title: Domestics<br>(in Korea)
         sub_title: Journal articles <br>& Conference papers
@@ -235,7 +235,7 @@ content:
           <p style="text-indent: -1em;">18. <b>Secure File Transfer Method and Forensic Readiness by converting file format in Network Segmentation Environment</b> [<A href = "http://koreascience.or.kr/article/JAKO201926072346469.page" target = "top">ePrint</A>]<br>Han, J., Yoon, Y., Hur, G., Lee, J., Choi, J., Hong, S., & Lee, S. (2019). Journal of the Korea Institute of Information Security & Cryptology, 29(4), 859-866.</p>
           <p style="text-indent: -1em;">17. <b>Structural features of ZIP files by method for creating the file in Windows</b><br>Um, M., Han, J., & Lee, S. (2020). Conference on Information Security and Cryptography-Summer 2020 (CISC-S’20).</p>
           <p style="text-indent: -1em;">16. <b>A Study on Digital Evidence Authentication and Tool Testing System</b><br>Han, J., & Kwon, Y. (2019.) The Autumn Convention of Korean Society of Forensic Science, KSFS.</p>
-          <p style="text-indent: -1em;">15. <b>5W1H based Information Expression Standard for efficient digital forensic investigation</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002487041" target = "top">ePrint</A>]<br>Yun, W., Han, J., & Lee, S. (2019). Journal of Digital Forensics, 13(2), 127-136.<br>* This study was presented at WDFS-s 2019., KDFS.</p>          
+          <p style="text-indent: -1em;">15. <b>5W1H based Information Expression Standard for efficient digital forensic investigation</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002487041" target = "top">ePrint</A>]<br>Yun, W., Han, J., & Lee, S. (2019). Journal of Digital Forensics, 13(2), 127-136.<br>* This study was presented at WDFS-s 2019., KDFS.</p>
           <p style="text-indent: -1em;">14. <b>A Study on Profiling Technique by Feature Extraction of Windows Executables</b><br>Lee, S., Han, J., & Lee, S. (2019). Conference on Information Security and Cryptography-Summer 2019 (CISC-S’19).<br>* This study was received the best paper award.</p>
           <p style="text-indent: -1em;">13. <b>Study on History Tracking Technique of the Document File through RSID Analysis in MS Word</b> [<A href = "http://koreascience.or.kr/article/JAKO201807753430904.page" target = "top">ePrint</A>]<br>Joun, J., Han, J., Jung, D., & Lee, S. (2018). Journal of the Korea Institute of Information Security & Cryptology, 28(6), 1439-1448.</p>
           <p style="text-indent: -1em;">12. <b>A Study on Detecting Data Hiding Area of Removable Storage Device Based on Flash Memory</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002393780" target = "top">ePrint</A>]<br>Kim, S., Han, J., & Lee, S. (2018). Journal of Digital Forensics, 12(2), 21-29.<br>* This study was presented at WDFS-s 2018., KDFS.</p>
@@ -254,18 +254,18 @@ content:
 # This paper was presented at Workshop of Digital forensics-Summer (WDFS-s) 2020 hosted by the Korea Digital Forensics Society
 # Korea Digital Forensics Society (KDFS)
 # Korean Society of Forensic Sciences (KSFS)
-      
+
   - title: Supports for the common good
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-indent: -1em;">- <b>페이스북, 통화·문자 다 엿봤다…방통위 조사 착수</b> (27 March 2018). [<A href = "https://news.sbs.co.kr/news/endPage.do?news_id=N1004685651" target = "top">link</A>]</p>
         <p style="text-indent: -1em;">- <b>해킹, 보이지 않는 위협</b> (25 May 2016). [<A href = "https://science.ytn.co.kr/program/program_view.php?s_mcd=1191&s_hcd=&key=201605260916329470&page=1" target = "top">link</A>]</p>
         <p style="text-indent: -1em;">- <b>전화번호·가족까지… 30분만에 인터넷서 발가벗겨졌다</b> (5 May 2016). [<A href = "https://www.chosun.com/site/data/html_dir/2016/05/05/2016050500174.html" target = "top">link</A>]</p>
-        
+
 #      쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
-        
+
 # Footer
 footer_show_references: false #true
 # references_title: References on request (Override references text)
