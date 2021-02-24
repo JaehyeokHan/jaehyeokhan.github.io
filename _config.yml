@@ -214,9 +214,9 @@ content:
           <br>Standard Number: TTAK.KO-12.0059/R1.
           <br>Issued date: 10 December 2020.</p>
           <p style="text-indent: -1em;">3. <b>Data Expression Standard for Digital Forensic Investigation:</b>
-          <br><b>Part 1. Overview and Requirements</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part1" target = "top">link</A>]
-          <br><b>Part 2. Data Types and Definition</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part2" target = "top">link</A>]
-          <br><b>Part 3. Examples Reference Model for Data Processing Interoperability</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part3" target = "top">link</A>]
+          <br><b>Part 1. Overview and Requirements</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part1" target = "top">link</A>];
+          <b>Part 2. Data Types and Definition</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part2" target = "top">link</A>];
+          <b>Part 3. Examples Reference Model for Data Processing Interoperability</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part3" target = "top">link</A>]
           <br>Standard Number: TTAK.KO-12.0353-Part1--Part3. (Series)
           <br>Issued date: 11 December 2019.</p>
           <p style="text-indent: -1em;">2. <b>Guidelines of Packet Processing for Network Forensics</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0339" target = "top">link</A>]
@@ -259,10 +259,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
         <p style="text-indent: -1em;">- <b>페이스북, 통화·문자 다 엿봤다…방통위 조사 착수</b> (27 March 2018). [<A href = "https://news.sbs.co.kr/news/endPage.do?news_id=N1004685651" target = "top">link</A>]</p>
+        <p style="text-indent: -1em;">- <b>쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서 </b> (2 November 2017).</p>
         <p style="text-indent: -1em;">- <b>해킹, 보이지 않는 위협</b> (25 May 2016). [<A href = "https://science.ytn.co.kr/program/program_view.php?s_mcd=1191&s_hcd=&key=201605260916329470&page=1" target = "top">link</A>]</p>
         <p style="text-indent: -1em;">- <b>전화번호·가족까지… 30분만에 인터넷서 발가벗겨졌다</b> (5 May 2016). [<A href = "https://www.chosun.com/site/data/html_dir/2016/05/05/2016050500174.html" target = "top">link</A>]</p>
-
-#      쟁점 태블릿PC의 검찰 포렌식 분석결과에 대한 해설서
+#<p style="text-indent: -1em;">- <b>탐사보도 세븐 104회 - 조주빈 덫에 걸려든 VIP들</b> (17 April 2020). [<A href = "https://youtu.be/7iI6EUlt5_c?t=1357" target = "top">link</A>]</p>
+#https://youtu.be/lJO75Oe5eUE
 #      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 #      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
