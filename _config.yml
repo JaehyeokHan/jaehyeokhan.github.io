@@ -156,7 +156,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;"><b>Ewha University, 2020--</b><br>38497: Digital forensics. (Fall 2020)</p>
           <p style="text-indent: -1em;"><b>Dongguk University, 2020--</b><br>PAS4022: Mobile forensics. (Spring 2020)</p>
-          <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics. (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affarirs in digital forensic. (Winter 2018; Winter 2019; Winter 2020)</p>
+          <p style="text-indent: -1em;"><b>Korea University, 2017--</b><br>ITCS403: Mobile forensics. (Fall 2017; Fall 2018; Fall 2019; Fall 2020)<br>IMS4001: Practical affairs in digital forensic. (Winter 2018; Winter 2019; Winter 2020)</p>
 
       - layout: left
         title: Tutorials
