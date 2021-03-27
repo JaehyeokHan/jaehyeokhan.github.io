@@ -102,7 +102,7 @@ content:
         #    url: https://github.com/dfrc-korea/carpe
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"><b>CARPE Forensics: Development of Digital Forensic Integration Platform</b> [<A href = "http://carpeforensics.org/" target = "top">link</A>][<A href = "http://carpeforensics.org/" target = "top">src</A>]
+          <p style="text-indent: -1em;"><b>CARPE Forensics: Development of Digital Forensic Integration Platform</b> [<A href = "http://carpeforensics.org/" target = "top">link</A>][<A href = "https://github.com/dfrc-korea/carpe" target = "top">src</A>]
           <br>May 2018 -- December 2020. Supported by IITP, Ministry of Science and ICT.
           <br>CARPE (Comprehensive Analysis and Research Platform for digital Evidence) is digital forensic integration framework. For the digital forensicist, this technology enables efficient work in the analysis process through automated modules, and for the software developer, it can be used to implement not only digital forensic research but also own tool by utilizing open source.</p>
           <p style="text-indent: -1em;"><b>A Research on ReFS (Resilient File System) file system analysis and recovery technology</b>
