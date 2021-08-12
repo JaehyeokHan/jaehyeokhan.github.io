@@ -162,10 +162,15 @@ content:
       - layout: left
         title: Tutorials
         #sub_title: Academic, Tutorials
-        quote: >
-          TBC
+        #quote: >
+        #  TBC
         description: | # this will include new lines to allow paragraphs
-          <p style="text-indent: -1em;"></p>
+        #한국지식재산보호원
+          <p style="text-indent: -1em;">March 2021, Digital Forensics Essentials Course</br>Korea Intellectual Property Protection Agency (KOIPA)</p> 
+
+        
+        #Digital Forensics Essentials Course
+
 
   - title: Publication
     layout: list
