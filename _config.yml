@@ -222,18 +222,22 @@ content:
         title: Standards
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">4. <b>Guidelines on Mobile Device Forensics</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0059/R1" target = "top">link</A>]
+          <br>모바일 기기 포렌식 지침
           <br>Standard Number: TTAK.KO-12.0059/R1.
           <br>Issued date: 10 December 2020.</p>
           <p style="text-indent: -1em;">3. <b>Data Expression Standard for Digital Forensic Investigation:</b>
           <br><b>Part 1. Overview and Requirements</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part1" target = "top">link</A>];
           <b>Part 2. Data Types and Definition</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part2" target = "top">link</A>];
           <b>Part 3. Examples Reference Model for Data Processing Interoperability</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part3" target = "top">link</A>]
+          <br>디지털 포렌식 조사를 위한 통합 정보 처리 규격 (제1부: 개요 및 요구사항, 제2부: 데이터 종류별 규격 정의, 제3부: 데이터 처리 상호 호환을 위한 참조 모델
           <br>Standard Number: TTAK.KO-12.0353-Part1--Part3. (Series)
           <br>Issued date: 11 December 2019.</p>
           <p style="text-indent: -1em;">2. <b>Guidelines of Packet Processing for Network Forensics</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0339" target = "top">link</A>]
+          <br>네트워크 포렌식을 위한 패킷 처리 지침
           <br>Standard Number: TTAK.KO-12.0339.
           <br>Issued date: 19 December 2018.</p>
           <p style="text-indent: -1em;">1. <b>Guidelines for Collection, Acquisition, and Preservation of Digital Evidence</b> [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0058/R1" target = "top">link</A>]
+          <br>디지털 증거 수집 보존 가이드라인
           <br>Standard Number: TTAK.KO-12.0058/R1.
           <br>Issued date: 13 December 2017.</p>
 
@@ -259,8 +263,8 @@ content:
           <p style="text-indent: -1em;">6. <b>Analysis of windows telemetry log file and comparison with the windows registry’s information</b><br>윈도우 텔레메트리 로그파일 분석 및 레지스트리 정보와 비교<br>Lee, S., Han, J., & Lee, S. (2017). Workshop of Digital forensics-Summer (WDFS-s) 2017.</p>
           <p style="text-indent: -1em;">5. <b>Advanced Web Browser Forensic Analysis using the Login Data files</b><br>로그인 정보 분석을 통한 웹 브라우저 포렌식 개선 방안<br>Kim, J., Han, J., & Lee, S. (2017). Conference on Information Security and Cryptography-Summer 2017 (CISC-S’17).</p>
           <p style="text-indent: -1em;">4. <b>A study on API wrapping in Themida and unpacking technique</b> [<A href = "http://koreascience.or.kr/article/JAKO201711656578275.page" target = "top">ePrint</A>]<br>Themida의 API 난독화 분석과 복구방안 연구<br>Lee, J, Han, J., Lee, M, Choi, J, Baek, H., & Lee, S. (2017). Journal of the Korea Institute of Information Security & Cryptology, 27(1), 67-77.</p>
-          <p style="text-indent: -1em;">3. <b>A Recovery Technique of PDF File in the Unit of Page</b> [<A href = "http://koreascience.or.kr/article/JAKO201710758143462.page" target = "top">ePrint</A>]<br>Jang, J., Bang, S. G., Han, J., & Lee, S. J. (2017). KIPS Transactions on Computer and Communication Systems, 6(1), 25-30.</p>
-          <p style="text-indent: -1em;">2. <b>An improvement method for recovering lost data in ZIP</b><br>PDF 파일의 페이지단위 복구 기법<br>Jung, B., Han, J., & Lee, S. (2016). Workshop of Digital forensics-Winter (WDFS-w) 2016.</p>
+          <p style="text-indent: -1em;">3. <b>A Recovery Technique of PDF File in the Unit of Page</b> [<A href = "http://koreascience.or.kr/article/JAKO201710758143462.page" target = "top">ePrint</A>]<br>PDF 파일의 페이지단위 복구 기법<br>Jang, J., Bang, S. G., Han, J., & Lee, S. J. (2017). KIPS Transactions on Computer and Communication Systems, 6(1), 25-30.</p>
+          <p style="text-indent: -1em;">2. <b>An improvement method for recovering lost data in ZIP</b><br>ZIP 파일 복구 도구의 성능한계와 개선방안<br>Jung, B., Han, J., & Lee, S. (2016). Workshop of Digital forensics-Winter (WDFS-w) 2016.</p>
           <p style="text-indent: -1em;">1. <b>An effective detection method for hiding data in compound-document files</b> [<A href = "http://koreascience.or.kr/article/JAKO201503340570272.page" target = "top">ePrint</A>]<br>복합문서 파일에 은닉된 데이터 탐지 기법에 대한 연구<br>Kim, E., Jeon, S., Han, J., Lee, M., & Lee, S. (2015). Journal of the Korea Institute of Information Security & Cryptology, 25(6), 1485-1494.</p>
 # Conference on Information Security and Cryptography-Summer/Winter 2020 (CISC-s/w), Korea Institute Of Information security & Cryptology.(KIISC)
 # This paper was presented at Workshop of Digital forensics-Summer (WDFS-s) 2020 hosted by the Korea Digital Forensics Society
