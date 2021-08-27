@@ -222,20 +222,16 @@ content:
         title: Standards
         description: | # this will include new lines to allow paragraphs
           <p style="text-indent: -1em;">4. <b>Guidelines on Mobile Device Forensics</b> (모바일 기기 포렌식 지침) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0059/R1" target = "top">link</A>]
-          <br>Standard Number: TTAK.KO-12.0059/R1.
-          <br>Issued date: 10 December 2020.</p>
+          <br>Standard Number: TTAK.KO-12.0059/R1., Issued date: 10 December 2020.</p>
           <p style="text-indent: -1em;">3. <b>Data Expression Standard for Digital Forensic Investigation</b> (디지털 포렌식 조사를 위한 통합 정보 처리 규격)
           <br> - Part 1. Overview and Requirements (개요 및 요구사항) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part1" target = "top">link</A>] 
           <br> - Part 2. Data Types and Definition (데이터 종류별 규격 정의) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part2" target = "top">link</A>];
           <br> - Part 3. Examples Reference Model for Data Processing Interoperability (데이터 처리 상호 호환을 위한 참조 모델) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0353-Part3" target = "top">link</A>]
-          <br>Standard Number: TTAK.KO-12.0353-Part1--Part3. (Series)
-          <br>Issued date: 11 December 2019.</p>
+          <br>Standard Number: TTAK.KO-12.0353-Part1--Part3. (Series), Issued date: 11 December 2019.</p>
           <p style="text-indent: -1em;">2. <b>Guidelines of Packet Processing for Network Forensics</b> (네트워크 포렌식을 위한 패킷 처리 지침) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0339" target = "top">link</A>]
-          <br>Standard Number: TTAK.KO-12.0339.
-          <br>Issued date: 19 December 2018.</p>
+          <br>Standard Number: TTAK.KO-12.0339., Issued date: 19 December 2018.</p>
           <p style="text-indent: -1em;">1. <b>Guidelines for Collection, Acquisition, and Preservation of Digital Evidence</b> (디지털 증거 수집 보존 가이드라인) [<A href = "http://www.tta.or.kr/eng/new/standardization/eng_ttastddesc.jsp?stdno=TTAK.KO-12.0058/R1" target = "top">link</A>] 
-          <br>Standard Number: TTAK.KO-12.0058/R1.
-          <br>Issued date: 13 December 2017.</p>
+          <br>Standard Number: TTAK.KO-12.0058/R1., Issued date: 13 December 2017.</p>
 
       - layout: left
         title: Domestics<br>(in Korea)
