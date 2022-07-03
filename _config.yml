@@ -188,6 +188,7 @@ content:
 #       quote: >
 #         Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
+         <p style="text-indent: -1em;">5. <b>A Study on the Processing of Timestamps in the Creation of Multimedia Files on Mobile Devices</b> [<A href = "https://doi.org/10.3745/JIPS.04.0245" target = "top">DOI</A>]<br>Han, J., & Lee, S. (2022). Journal of Information Processing Systems.</p>
          <p style="text-indent: -1em;">4. <b>File fingerprinting of the ZIP format for identifying and tracking provenance</b> [<A href = "https://doi.org/10.1016/j.fsidi.2021.301271" target = "top">DOI</A>]<br>Um, M., Han, J., & Lee, S. (2021). Forensic Science International: Digital Investigation.</p>
          <p style="text-indent: -1em;">3. <b>5W1H-based Expression for the Effective Sharing of Information in Digital Forensic Investigations</b> [<A href = "https://arxiv.org/abs/2010.15711" target = "top">arXiv</A>]<br>Han, J., Kim, J., & Lee, S. (2020). arXiv preprint arXiv:2010.15711.</p>
          <p style="text-indent: -1em;">2. <b>Forensic analysis of the Windows telemetry for diagnostics</b> [<A href = "https://arxiv.org/abs/2002.12506" target = "top">arXiv</A>]<br>Han, J., Park, J., Chung, H., & Lee, S. (2020). arXiv preprint arXiv:2002.12506.</p>
