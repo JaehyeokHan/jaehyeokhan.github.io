@@ -161,7 +161,7 @@ content:
           <p style="text-indent: -1em;"><b>Korea University</b><br>ITCS403: Mobile forensics. (Fall 2017; Fall 2018; Fall 2019; Fall 2020; Fall 2021)<br>IMS4001: Practical affairs in digital forensic. (Winter 2018; Winter 2019; Winter 2020; Winter 2021)</p>
 
       - layout: left
-        title: Tutorials
+        title: Tutorials/Invited Talks
         #sub_title: Academic, Tutorials
         #quote: >
         #  TBC
@@ -240,6 +240,7 @@ content:
         title: Domestics<br>(in Korea)
         sub_title: Journal articles <br>& Conference papers
         description: | # this will include new lines to allow paragraphs
+          <p style="text-indent: -1em;">23. <b>Real IP address tracking techniques for illegal sites using Cyber Threat Intelligence search services</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002859565" target = "top">ePrint</A>]<br>사이버 위협정보 검색 서비스를 활용한 불법사이트 실 IP 주소 추적 기법<br>Hwang, Y., Han, J., & Lee, S. (June 2022). Journal of Digital Forensics, 16(2), 116-125.</p>
           <p style="text-indent: -1em;">22. <b>A Study on How to Reach a Consensus on Triage of Smartphone Data for Corporate Internal Investigations</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002801160" target = "top">ePrint</A>]<br>기업 내부조사 시 스마트폰 데이터의 선별 합의 방안 연구<br>Yang, H., Han, J., & Lee, S. (December 2021). Journal of Digital Forensics, 15(4), 156-172.</p>
           <p style="text-indent: -1em;">21. <b>Forensic Analysis of HEIF Files on Android and Apple Devices</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002768178" target = "top">ePrint</A>]<br>스마트폰에서 촬영된 HEIF 파일 특징 분석에 관한 연구<br>Kwon, Y., Bang, S., Han, J., & Lee, S. (May 2021). The KIPS Spring Conference 2021<br>* This study was received the participation award.</p>
           <p style="text-indent: -1em;">20. <b>A study on forensic analysis for Windows search utility Everything</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002636122" target = "top">ePrint</A>]<br>검색 유틸리티 Everything에 대한 포렌식 분석 및 활용 기법 연구<br>Kim, D., Han, J., & Lee, S. (March 2020). Journal of Digital Forensics, 14(3), 279-289.<br>* This study was presented at WDFS-s 2020, KDFS., and received the best paper award.</p>
