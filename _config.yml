@@ -166,6 +166,7 @@ content:
         #quote: >
         #  TBC
         description: | # this will include new lines to allow paragraphs
+          <p style="text-indent: -1em;">2021-05-21 <b>File fingerprint for provenance tracking</b>, SECREV2021</p> # https://www.youtube.com/watch?v=ASrU1SgAk8o
           <p style="text-indent: -1em;">2021-03-04 <b>Mobile Device Security and forensic analaysis</b>, Korea Intellectual Property Protection Agency (KOIPA)</p>
           <p style="text-indent: -1em;">2020-11-03 <b>Windows Forensic Analysis: Advanced </b>, Naval Education & Training Command</p>
           <p style="text-indent: -1em;">2019-10-30 <b>Windows Forensic Analysis: Basic</b>, Naval Education & Training Command</p>
