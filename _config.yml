@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Jaehyeok Han
-title: Ph.D student
+title: Ph.D candidate
 email: one01h@korea.ac.kr
 # email_title: Email (Email title override)
 # phone: Your phone number (optional)
@@ -189,6 +189,7 @@ content:
 #       quote: >
 #         Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
+         <p style="text-indent: -1em;">6. <b>Data reconstruction and recovery of deduplicated files having non-resident attributes in NTFS volume</b> [<A href = "https://doi.org/10.1016/j.fsidi.2023.301571" target = "top">DOI</A>]<br>An, S., Lee, S., & Han, J. (2023). Forensic Science International: Digital Investigation.</p>
          <p style="text-indent: -1em;">5. <b>A Study on the Processing of Timestamps in the Creation of Multimedia Files on Mobile Devices</b> [<A href = "https://doi.org/10.3745/JIPS.04.0245" target = "top">DOI</A>]<br>Han, J., & Lee, S. (2022). Journal of Information Processing Systems.</p>
          <p style="text-indent: -1em;">4. <b>File fingerprinting of the ZIP format for identifying and tracking provenance</b> [<A href = "https://doi.org/10.1016/j.fsidi.2021.301271" target = "top">DOI</A>]<br>Um, M., Han, J., & Lee, S. (2021). Forensic Science International: Digital Investigation.</p>
          <p style="text-indent: -1em;">3. <b>5W1H-based Expression for the Effective Sharing of Information in Digital Forensic Investigations</b> [<A href = "https://arxiv.org/abs/2010.15711" target = "top">arXiv</A>]<br>Han, J., Kim, J., & Lee, S. (2020). arXiv preprint arXiv:2010.15711.</p>
@@ -241,6 +242,7 @@ content:
         title: Domestics<br>(in Korea)
         sub_title: Journal articles <br>& Conference papers
         description: | # this will include new lines to allow paragraphs
+          <p style="text-indent: -1em;">24. <b>A Study on Characteristics of PDF File Creator Program for Digital Forensic Investigation</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002923491" target = "top">ePrint</A>]<br>PDF 파일 내 생성프로그램 특징 및 출처 조사 기법 연구<br>Kang, S., Han, J., Hur, G., Park, J., & Lee, S. (December 2022). Journal of Digital Forensics, 16(4), 15-27.</p>
           <p style="text-indent: -1em;">23. <b>Real IP address tracking techniques for illegal sites using Cyber Threat Intelligence search services</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002859565" target = "top">ePrint</A>]<br>사이버 위협정보 검색 서비스를 활용한 불법사이트 실 IP 주소 추적 기법<br>Hwang, Y., Han, J., & Lee, S. (June 2022). Journal of Digital Forensics, 16(2), 116-125.</p>
           <p style="text-indent: -1em;">22. <b>A Study on How to Reach a Consensus on Triage of Smartphone Data for Corporate Internal Investigations</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002801160" target = "top">ePrint</A>]<br>기업 내부조사 시 스마트폰 데이터의 선별 합의 방안 연구<br>Yang, H., Han, J., & Lee, S. (December 2021). Journal of Digital Forensics, 15(4), 156-172.</p>
           <p style="text-indent: -1em;">21. <b>Forensic Analysis of HEIF Files on Android and Apple Devices</b> [<A href = "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002768178" target = "top">ePrint</A>]<br>스마트폰에서 촬영된 HEIF 파일 특징 분석에 관한 연구<br>Kwon, Y., Bang, S., Han, J., & Lee, S. (May 2021). The KIPS Spring Conference 2021<br>* This study was received the participation award.</p>
