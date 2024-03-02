@@ -91,24 +91,24 @@ content:
       - layout: left
         title: 2022
         description: | # this will include new lines to allow paragraphs
-          <p><b>Development of New Technology for Data Privacy Enhancement on Edge Cloud Environment and Cultivating Next Generation Creative Talent</b>
+          <p style="text-indent: -1em;"><b>Development of New Technology for Data Privacy Enhancement on Edge Cloud Environment and Cultivating Next Generation Creative Talent</b>
           <br>July 2022 -- December 2027. Supported by Ministry of Science and ICT (MSIT) for Information Technology Research Center (ITRC)
           <br>Keywords: Privacy Enhanced Sensing Signal Generation, Quantum-Safe&Light weight Symmetric Encryption, Full-Scale SCA-resistant PQC, Privacy Preserving Encrypted Data Processing and Federated Learning</p>
-          <p><b>Comprehensive Policy for Developing Scientific Criminal Investigation and Forensic Science (The 5th Industrial Revolution)- Review of relevant laws and policies on the criminal Jjstice reform in the era of post-COVID19</b>[<A href = " https://www.kicj.re.kr/boardDownload.es?bid=0001&list_no=13315&seq=1" target = "top">report</A>]
+          <p style="text-indent: -1em;"><b>Comprehensive Policy for Developing Scientific Criminal Investigation and Forensic Science (The 5th Industrial Revolution)- Review of relevant laws and policies on the criminal Jjstice reform in the era of post-COVID19</b>[<A href = " https://www.kicj.re.kr/boardDownload.es?bid=0001&list_no=13315&seq=1" target = "top">report</A>]
           <br>May 2022 -- December 2022. Supported by Korean Institute of Criminology and Justice (JICJ)
           <br>Criminal justice reform by AI-applied digital forensic</p>
 
       - layout: left
         title: 2021
         description: | # this will include new lines to allow paragraphs
-          <p><b>The development of information management system and security tools to avoid the invasion threat of CDM information security based on laws for utilization of distributed research network</b>
+          <p style="text-indent: -1em;"><b>The development of information management system and security tools to avoid the invasion threat of CDM information security based on laws for utilization of distributed research network</b>
           <br>January 2021 -- December 2021. Supported by Ministry of Health & Welfare (MW).
           <br>Keywords: Common data model (CDM), Distributed research network, Information security manager</p>
 
       - layout: left
         title: 2019
         description: | # this will include new lines to allow paragraphs
-          <p><b>Development of Digital Forensic Technique for Navigational Equipment to Ensure the Integrity and the admissibility of Digital Evidence</b>
+          <p style="text-indent: -1em;"><b>Development of Digital Forensic Technique for Navigational Equipment to Ensure the Integrity and the admissibility of Digital Evidence</b>
           <br>August 2019 -- June 2023. Supported by Korea Institute of Marine Science & Technology Promotion (KIMST) for Korea Coast Guard.
           <br>Keywords: Maritime equipment, Embedded device forensics, NAND dump analysis, Reverse engineering, Coordinates</p>
 
