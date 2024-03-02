@@ -180,6 +180,7 @@ content:
         #quote: >
         #  TBC
         description: | # this will include new lines to allow paragraphs
+          <p style="text-indent: -1em;"><b>Korea University Sejong Campus</b><br>AICS327: Fundamentals and Practice in Digital Forensics. (Fall 2022)</p>
           <p style="text-indent: -1em;"><b>Sungkyunkwan University</b><br>FSI5058: Mobile Forensics. (Spring 2022)</p>
           <p style="text-indent: -1em;"><b>Korean National Police University (KNPU)</b><br>202121400801: Introduction to Digital Forensics. (Fall 2021)</p>
           <p style="text-indent: -1em;"><b>Ewha University</b><br>38497: Digital forensics. (Fall 2020; Spring 2021; Spring 2022)</p>
