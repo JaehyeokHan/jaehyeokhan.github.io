@@ -56,8 +56,7 @@ about_content: | # this will include new lines to allow paragraphs
   - <A href = "https://gss.korea.edu/" target = "top">School of Cybersecurity</A> at <A href = "http://www.korea.edu/" target = "top">Korea University</A>
   - <A href = "https://gss.korea.edu/sis_en/organisations/center.do" target = "top">Institute of Cyber Security & Privacy (ICSP)</A> at Korea University
   - <A href = "http://dfrc.korea.ac.kr/" target = "top">Digital Forensic Research Center (DFRC)</A> [*<A href = "http://forensic.korea.ac.kr/" target = "top">RETR</A>*] at ICSP
-  #[*<A href = "https://sites.google.com/a/forensic.or.kr/main/" target = "top">RETR</A>*]
-
+# https://sites.google.com/a/forensic.or.kr/main/
 
 content:
   - title: Education
