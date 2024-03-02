@@ -76,7 +76,7 @@ content:
         description: | # Master of Engineering, Graduate School of Information Security
           <p> M.E. in Information security</p>
           <p>Master's Thesis: <i><A href = "https://library.korea.ac.kr/detail/?cid=CAT000045866940&ctype=t" target = "top">Analysis of the HIKVISION DVR filesystem</A></i></p>
-          <p>Supervised by <A href = "https://scs.korea.ac.kr/ime/professor/honor.do?mode=view&articleNo=36554&article.offset=0&articleLimit=30" target = "top">Sangjin Lee</A></p>
+          <p>Supervised by <A href = "https://dfrc.korea.ac.kr/aboutus_professor" target = "top">Sangjin Lee</A></p>
 
       - layout: left
         title: University of Seoul, Seoul, South Korea, 2011
